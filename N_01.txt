@@ -611,12 +611,13 @@
 ||guture-tec.systems^
 ||Vault-tec.systems^
 ||idSoftware.com^
-||QuakeApi.com^
 ||Saber.Games^
 ||Arkane-Studios.com^
 ||MachineGames.com^
 ||ZenimaxOnline.com^
-||agent.quakeapi.com^
+||agent.QuakeApi.com^
+||QuakeApi.com^
+||services-d-agent.quakeapi.com^
 ||prod-obt-lovecraft-1-services-d-agent.quakeapi.com^
 ||1dot1dot1dot1.CloudFlare-DNS.com^
 ||One.One.One.One^
@@ -674,9 +675,9 @@
 ||maps.yastatic.net$important^
 ||mc.yandex.ru$important^
 ||mc.yandex.md$important^
-||mobile-maps-common.s3.yandex.net$important^
-||mobileproxy.passport.yandex.net$important^
+||passport.yandex.net$important^
 ||s3.yandex.net^
+||frontend.vh.yandex.ru^
 ||time.yandex.ru$important^
 ||svc.cdn.yandex.net$important^
 ||taxi.yandex.net$important^
@@ -719,7 +720,6 @@
 ||tdesktop.telega.one^
 ||cdn-telegram.org^
 ||telegram-cdn.org^
-||###GTHost:###^
 ||gthost.com^
 ||gthost-01.com^
 ||uk-gthost-01.com^
