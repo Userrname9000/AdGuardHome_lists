@@ -183,6 +183,7 @@
 ||AstraLinux.ru^$important
 ||AutoDiscover.FB.com^$important
 ||Axon.Ai^$important
+||Attio.com^
 ||ChiliPiper.com^$important
 ||Crystalidea.License-Manage.com^$important
 ||Data4.net^$important
@@ -209,6 +210,7 @@
 ||SecondPhone.org^$important
 ||services.Adobe.com^
 ||static-ECSt.LiCDN.com^
+||SmartSupp.com^
 ||SalesMartly.com^
 ||Tenor.com^$important
 ||TvZvezda.ru^$important
@@ -231,4 +233,5 @@
 ||u.StartUp.mobile.WebVisor.com.homeworld264^$important
 
 ||www.gstatic.com.homeworld264^$important
+
 
