@@ -911,6 +911,7 @@ download.WindowsUpdate.com^
 ecs.Office.com^
 exp-Tas.com^
 edge.Microsoft.com^
+edgePassKeySenclave.Microsoft.com^
 edge-Microsoft-com.ax-0002.ax-msedge.net^
 edge.sdk.awswaf.com^
 edge.skype.com^
