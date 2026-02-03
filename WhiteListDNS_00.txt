@@ -930,6 +930,7 @@ Outlook.Office.com^
 Outlook.Office365.com^
 ow1.res.Office365.com^
 OneDrive.Live.com^
+oneOcsp.Microsoft.com^
 PowershellGallery.com^
 protection.Outlook.com^
 prod.RewardsPatform.Microsoft.com^
@@ -1410,6 +1411,7 @@ etaHub.com^
 PHnCDN.com^
 pvvStream.pro^
 xVideos-CDN.com^
+
 
 
 
