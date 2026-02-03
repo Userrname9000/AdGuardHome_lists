@@ -531,6 +531,7 @@ VimeoCDN.com^
 VipCoin.cc^
 VirusTotal.com^
 Vytal.io^
+w3.org^
 Wander.Science^
 WappAlyzer.com^
 web.AlfaBank.ru^
@@ -1425,4 +1426,5 @@ etaHub.com^
 PHnCDN.com^
 pvvStream.pro^
 xVideos-CDN.com^
+
 
