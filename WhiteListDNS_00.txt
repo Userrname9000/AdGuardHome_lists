@@ -45,6 +45,7 @@ AkamaiTech.net^
 AkamaiZed.net^
 EdgeSuite.net^
 www.Akamai.com^
+cdn.ZiffStatic^
 ##############################
 ########💪ЭтоБАЗА:🏰#########
 ##############################
@@ -116,11 +117,9 @@ cdn.jsDelivr.net^
 cdn.Ninja^
 cdn.Optimizely.com^
 cdn.prod.Website-files.com^
-cdn.QuantummeTric.com^
 cdn.Statically.io^
 cdn.StrapSCO.com^
 cdn.TrackJS.com^
-cdn.ZiffStatic^
 cdn2site.com^
 cdn3.Optimizely.com^
 cdn77.com^
@@ -1411,6 +1410,7 @@ etaHub.com^
 PHnCDN.com^
 pvvStream.pro^
 xVideos-CDN.com^
+
 
 
 
