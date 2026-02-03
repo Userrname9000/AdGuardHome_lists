@@ -923,6 +923,7 @@ graph.Microsoft.com^
 g.Live.com^
 GamePass.com^
 gfx.ms^
+geo.prod.do.dsp.mp.Microsoft.com^
 go.Microsoft.com^
 iris.Microsoft.com
 igmp.Mcast.net^
