@@ -207,8 +207,9 @@
 ||OneSignal.com^
 ||SecondPhone.app^$important
 ||SecondPhone.org^$important
-||services.Adobe.com^$important
-||static-ECSt.LiCDN.com^$important
+||services.Adobe.com^
+||static-ECSt.LiCDN.com^
+||SalesMartly.com^
 ||Tenor.com^$important
 ||TvZvezda.ru^$important
 ||vSexShop.ru^$important
@@ -230,3 +231,4 @@
 ||u.StartUp.mobile.WebVisor.com.homeworld264^$important
 
 ||www.gstatic.com.homeworld264^$important
+
