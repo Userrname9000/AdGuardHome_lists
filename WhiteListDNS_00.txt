@@ -958,6 +958,7 @@ PowershellGallery.com^
 protection.Outlook.com^
 prod.RewardsPatform.Microsoft.com^
 r.Bing.com^
+security.Microsoft.com^
 service.Signalr.net^
 services.VisualStudio.com^
 SFX.ms^
