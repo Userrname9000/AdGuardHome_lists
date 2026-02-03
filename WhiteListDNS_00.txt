@@ -81,10 +81,10 @@ AoIoT.ru^
 ApNic.net^
 Archive.is^
 Archive.org^
-Archive.org^
 ArchLinux.org^
 ARiN.net^
 ArtNow.ru^
+ArkoseLabs.com^
 AuroraOSS.com^
 AusLogics.com^
 Auth0.com^
@@ -1411,5 +1411,6 @@ etaHub.com^
 PHnCDN.com^
 pvvStream.pro^
 xVideos-CDN.com^
+
 
 
