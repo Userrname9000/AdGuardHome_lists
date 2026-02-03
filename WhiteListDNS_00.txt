@@ -896,9 +896,10 @@ ecs.Office.com^
 edge-Microsoft-com.ax-0002.ax-msedge.net^
 edge.sdk.awswaf.com^
 edge.skype.com^
-edge-http.microsoft.com^
+events.data.Microsoft.com^
+edge-http.Microsoft.com^
 endpoints.Office.com^
-enterpriseregistration.Windows.net^
+enterpRiseregistration.Windows.net^
 eur.loki.delve.Office.com^
 g.Live.com^
 GamePass.com^
@@ -1413,6 +1414,7 @@ etaHub.com^
 PHnCDN.com^
 pvvStream.pro^
 xVideos-CDN.com^
+
 
 
 
