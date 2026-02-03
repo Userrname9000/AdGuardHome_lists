@@ -70,6 +70,7 @@ AdBlock-Tester.com^
 AdBlock.TurtleCute.org^
 Addr.Tools^
 ADSpower-ru.com^
+ADSpower.com^
 AFRiNiC.net^
 Aimp.ru^
 AlienVault.com^
@@ -1428,6 +1429,7 @@ etaHub.com^
 PHnCDN.com^
 pvvStream.pro^
 xVideos-CDN.com^
+
 
 
 
