@@ -150,7 +150,9 @@ ConsentManager.net^
 ControlD.com^
 CopyTrans.net^
 Coveo.com^
+CoinMarketCap.com^
 CPUid.com^
+Crypto.com^
 CryptGeon.com^
 CryptPad.fr^
 ctdCDN.com^
@@ -1411,6 +1413,7 @@ etaHub.com^
 PHnCDN.com^
 pvvStream.pro^
 xVideos-CDN.com^
+
 
 
 
