@@ -83,7 +83,6 @@ Archive.is^
 Archive.org^
 ArchLinux.org^
 ARiN.net^
-ArtNow.ru^
 ArkoseLabs.com^
 AuroraOSS.com^
 AusLogics.com^
@@ -1411,6 +1410,7 @@ etaHub.com^
 PHnCDN.com^
 pvvStream.pro^
 xVideos-CDN.com^
+
 
 
 
