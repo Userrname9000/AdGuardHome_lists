@@ -413,6 +413,9 @@ OpenWRT.org^
 Orb.link^
 Orb.net^
 OWASP.org^
+Robtex.com^
+RTcdn.dev^
+bsky.app^
 PackageControl.io^
 Path.net^
 PayPal.com^
@@ -927,7 +930,7 @@ GamePass.com^
 gfx.ms^
 geo.prod.do.dsp.mp.Microsoft.com^
 go.Microsoft.com^
-iris.Microsoft.com
+iris.Microsoft.com^
 igmp.Mcast.net^
 learn.Microsoft.com^
 login.live.com^
