@@ -891,6 +891,7 @@ assets.MSN.com^
 AzureEdge.net^
 AzureFD-Test.net^
 AzureFD.net^
+c1.Microsoft.com^
 c.MSN.com^
 cdn.Office.net^
 MSdxCDN.Microsoft.com^
@@ -928,6 +929,7 @@ geo.prod.do.dsp.mp.Microsoft.com^
 go.Microsoft.com^
 iris.Microsoft.com
 igmp.Mcast.net^
+learn.Microsoft.com^
 login.live.com^
 login.Microsoftonline.com^
 login.Windows.net^
@@ -982,6 +984,7 @@ update.Microsoft.com^
 VisualStudio.com^
 VSassets.io^
 VScode-cdn.net^
+wcpStatic.Microsoft.com^
 Winstall.app^
 WindowsUpdate.com^
 WinGet.run^
