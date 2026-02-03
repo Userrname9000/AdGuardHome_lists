@@ -876,6 +876,7 @@ AzureFD-Test.net^
 AzureFD.net^
 c.MSN.com^
 cdn.Office.net^
+MSdxCDN.Microsoft.com^
 cdn.winget.Microsoft.com^
 client.wns.Windows.com^
 cloud.Microsoft.com^
@@ -1410,4 +1411,5 @@ etaHub.com^
 PHnCDN.com^
 pvvStream.pro^
 xVideos-CDN.com^
+
 
