@@ -422,6 +422,7 @@ pgl.YoYo.org^
 Pi-Hole.net^
 Pingless.dev^
 PixelScan.net^
+Pypi.org^
 Pkgs.org^
 PlayFabApi.com^
 PortDroid.net^
@@ -975,9 +976,10 @@ update.Microsoft.com^
 VisualStudio.com^
 VSassets.io^
 VScode-cdn.net^
+Winstall.app^
 WindowsUpdate.com^
 WinGet.run^
-wustat.Windows.com^
+wuStat.Windows.com^
 www.Bing.com^
 www.BingApis.com^
 www.Microsoft.com^
