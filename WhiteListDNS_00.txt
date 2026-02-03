@@ -908,6 +908,7 @@ edge-http.Microsoft.com^
 endpoints.Office.com^
 enterpRiseregistration.Windows.net^
 eur.loki.delve.Office.com^
+graph.Microsoft.com^
 g.Live.com^
 GamePass.com^
 gfx.ms^
@@ -1422,6 +1423,7 @@ etaHub.com^
 PHnCDN.com^
 pvvStream.pro^
 xVideos-CDN.com^
+
 
 
 
