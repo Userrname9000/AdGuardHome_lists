@@ -100,7 +100,6 @@ BGPview.io^
 BlockChain.com^
 BlockChair.com^
 BootStrapCDN.com^
-Browser-intake-DataDogHQ.com^
 BrowserLeaks.com^
 BrowserLeaks.net^
 BrowserLeaks.org^
