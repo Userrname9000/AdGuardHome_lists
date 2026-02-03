@@ -57,7 +57,7 @@ AWS.Amazon.com^
 Amazonforum.com^
 media-Amazon.com^
 SSL-images-Amazon.com^
-Android.com^
+##############################
 3dnews.ru^
 3GPPnetwork.org^
 4PDA.to^
@@ -779,6 +779,8 @@ use.TypeKit.net^
 client.Messaging.Adobe.com^s
 ##############################
 ##📧🟦Google + YouTube🟥🎥##
+Android.com^
+about.Google^
 pk.Goog^
 c.pki.Goog^
 i.pki.Goog^
@@ -1415,6 +1417,7 @@ etaHub.com^
 PHnCDN.com^
 pvvStream.pro^
 xVideos-CDN.com^
+
 
 
 
