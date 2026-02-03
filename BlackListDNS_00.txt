@@ -4,7 +4,6 @@
 ||Gekkk.com^$important
 ||Gekkk.io^$important
 ||LawFilter.ErTelecom.ru^$important
-||wpad.homeworld264^$important
 ||l1-1.anzu.io.||l1-1.anzu.io^$important
 ||L1-1.anzu.io.homeworld264^$important
 ||Disabled.invalid^$important
@@ -229,4 +228,5 @@
 ||play.googleapis.com.homeworld264^$important
 ||Report.AppMetrica.Yandex.net.homeworld264^$important
 ||u.StartUp.mobile.WebVisor.com.homeworld264^$important
+
 ||www.gstatic.com.homeworld264^$important
