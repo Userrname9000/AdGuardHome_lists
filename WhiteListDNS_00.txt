@@ -97,6 +97,7 @@ BadSSL.com^
 BDu.FsTec.ru^
 BestChange.ru^
 BGPview.io^
+BGP.tools^
 BlockChain.com^
 BlockChair.com^
 BootStrapCDN.com^
@@ -395,7 +396,6 @@ NSPK.ru^
 ntp.FiORD.ru^
 ntp.org^
 ntp.SJTU.edu.cn^
-ntservicepack.Microsoft.com^
 Nvidia.com^
 NvidiaGrid.net^
 Obsidian.md^
@@ -953,6 +953,7 @@ my.MicrosoftPersonalContent.com^
 neLReports.net^
 netmon.Azure.com^
 nLEditor.osi.Office.net^
+ntservicepack.Microsoft.com^
 ntp.MSN.com^
 NuGet.org^
 Office.akaDNS.net^
@@ -984,6 +985,7 @@ t-MsEdge.net^
 th.Bing.com^
 time.Windows.com^
 trafficManager.net^
+techcommunity.Microsoft.com^
 update.Microsoft.com^
 VisualStudio.com^
 VSassets.io^
