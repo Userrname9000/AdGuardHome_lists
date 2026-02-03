@@ -419,6 +419,7 @@ PeeringDB.com^
 pgl.YoYo.org^
 Pi-Hole.net^
 Pingless.dev^
+PixelScan.net^
 Pkgs.org^
 PlayFabApi.com^
 PortDroid.net^
@@ -900,6 +901,7 @@ dns.MSFTncsi.com^
 download.Microsoft.com^
 download.WindowsUpdate.com^
 ecs.Office.com^
+edge.Microsoft.com^
 edge-Microsoft-com.ax-0002.ax-msedge.net^
 edge.sdk.awswaf.com^
 edge.skype.com^
@@ -1423,3 +1425,4 @@ etaHub.com^
 PHnCDN.com^
 pvvStream.pro^
 xVideos-CDN.com^
+
