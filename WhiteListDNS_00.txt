@@ -53,6 +53,8 @@ Amazon.com^
 AmazonAWS.com^
 AmazonTrust.com^
 AWS.Amazon.com^
+media-Amazon.com^
+SSL-images-Amazon.com^
 Android.com^
 3dnews.ru^
 3GPPnetwork.org^
@@ -1405,3 +1407,4 @@ PHnCDN.com^
 pvvStream.pro^
 
 xVideos-CDN.com^
+
