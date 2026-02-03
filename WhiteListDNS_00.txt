@@ -950,6 +950,7 @@ storage.Live.com^
 store-images.s-Microsoft.com^
 storeedgefd.dsx.mp.Microsoft.com^
 substrate.Office.com^
+SmartScreen.Microsoft.com^
 t-MsEdge.net^
 th.Bing.com^
 time.Windows.com^
@@ -1414,6 +1415,7 @@ etaHub.com^
 PHnCDN.com^
 pvvStream.pro^
 xVideos-CDN.com^
+
 
 
 
