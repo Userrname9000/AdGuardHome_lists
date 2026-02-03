@@ -69,7 +69,6 @@ AdBlock-Tester.com^
 AdBlock.TurtleCute.org^
 Addr.Tools^
 ADSpower-ru.com^
-AdTidy.software.informer.com^
 AFRiNiC.net^
 Aimp.ru^
 AlienVault.com^
@@ -468,6 +467,7 @@ Snort.org^
 SNote.io^
 SomeoneWhoCares.org^
 SoundCloud.com^
+Software.informer.com^
 SourceForge.net^
 Speed.ee^
 SpeedGuide.net^
@@ -1407,8 +1407,4 @@ DosugBarTula.org^
 etaHub.com^
 PHnCDN.com^
 pvvStream.pro^
-
 xVideos-CDN.com^
-
-
-
