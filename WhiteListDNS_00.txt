@@ -805,7 +805,7 @@ accounts.Google.com^
 accounts.Google.ru^
 apis.Google.com^
 calendar.Google.com^
-sandbox.Google.com^
+connectivitycheck.gStatic.com^
 chrome.Google.com^
 clients.Google.com^
 clients1.Google.com^
@@ -855,6 +855,7 @@ policies.Google.com^
 privacy.Google.com^
 ReturnYouTubeDislikeApi.com^
 Run.App^
+sandbox.Google.com^
 sb-SSL.Google.com^
 SuggestQueries.Google.com^
 support.Google.com^
