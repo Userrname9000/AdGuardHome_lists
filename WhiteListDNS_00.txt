@@ -515,6 +515,7 @@ TLS-Ech.dev^
 TorProject.org^
 TrustLook.com^
 TryHackMe.com^
+Thawte.com^
 u1Host.com^
 uBlockOrigin.com^
 uBlockOrigin.pages.dev^
@@ -1430,6 +1431,7 @@ etaHub.com^
 PHnCDN.com^
 pvvStream.pro^
 xVideos-CDN.com^
+
 
 
 
