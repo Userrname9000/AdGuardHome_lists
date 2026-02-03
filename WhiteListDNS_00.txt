@@ -922,7 +922,8 @@ g.Live.com^
 GamePass.com^
 gfx.ms^
 go.Microsoft.com^
-igmp.mcast.net^
+iris.Microsoft.com
+igmp.Mcast.net^
 login.live.com^
 login.Microsoftonline.com^
 login.Windows.net^
