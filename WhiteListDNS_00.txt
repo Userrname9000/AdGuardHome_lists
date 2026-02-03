@@ -346,6 +346,7 @@ LwCDN.com^
 MartiCliment.com^
 MaxMind.com^
 Mega.nz^
+Mega.co.nz^
 Metasploit.com^
 Mi-img.com^
 miCloud.mi.com^
@@ -1408,5 +1409,6 @@ PHnCDN.com^
 pvvStream.pro^
 
 xVideos-CDN.com^
+
 
 
