@@ -48,6 +48,8 @@ www.Akamai.com^
 ##############################
 ########💪ЭтоБАЗА:🏰#########
 ##############################
+AWSwaf.com^
+Amazon.com^
 AmazonAWS.com^
 AmazonTrust.com^
 AWS.Amazon.com^
@@ -1401,4 +1403,5 @@ DosugBarTula.org^
 etaHub.com^
 PHnCDN.com^
 pvvStream.pro^
+
 xVideos-CDN.com^
