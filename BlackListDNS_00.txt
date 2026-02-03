@@ -194,7 +194,6 @@
 ||ExperienceLeague.Adobe.com^$important
 ||Fingerprint.T-static.ru^$important
 ||FireBaseLogging.GoogleAPis.com^$important
-||FootPrintDNS.com^$important
 ||g.Tenor.com^$important
 ||gamerilla.ru^
 ||games.t2.appsell.me^
