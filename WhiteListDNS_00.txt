@@ -880,6 +880,7 @@ api.OneDrive.com^
 AppCenter.ms^
 apps.Microsoft.com^
 arc.MSN.com^
+aria.Microsoft.com^
 assets.MSN.com^
 AzureEdge.net^
 AzureFD-Test.net^
@@ -906,7 +907,7 @@ edge.Microsoft.com^
 edge-Microsoft-com.ax-0002.ax-msedge.net^
 edge.sdk.awswaf.com^
 edge.skype.com^
-events.data.Microsoft.com^
+data.Microsoft.com^
 edge-http.Microsoft.com^
 endpoints.Office.com^
 enterpRiseregistration.Windows.net^
@@ -1426,5 +1427,6 @@ etaHub.com^
 PHnCDN.com^
 pvvStream.pro^
 xVideos-CDN.com^
+
 
 
