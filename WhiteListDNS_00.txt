@@ -401,6 +401,7 @@ NSPK.ru^
 ntp.FiORD.ru^
 ntp.org^
 ntp.SJTU.edu.cn^
+NTunhs.net^
 Nvidia.com^
 NvidiaGrid.net^
 Obsidian.md^
@@ -893,6 +894,7 @@ wide-YouTube.L.Google.com^
 www.Google.com^
 www.Google.lv^
 www.Google.ru^
+www.Gstatic.com^
 YouTu.be^
 YouTube-noCookie.com^
 YouTube.com^
