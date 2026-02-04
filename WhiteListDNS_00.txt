@@ -615,6 +615,7 @@ locate.Apple.com^
 locator.Apple.com^
 com.Apple.locationd
 Lcdn-Locator.Apple.com^
+Locate-cld-aeuw1.Apple.com^
 LocationHistory-pa.GoogleApis.com^
 GeoMobileServices-pa.GoogleApis.com^
 2Gis.ru^
