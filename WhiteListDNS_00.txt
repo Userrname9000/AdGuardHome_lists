@@ -22,12 +22,10 @@ v.Recipes^
 ##############################
 example.com^
 example.org^
-in-Addr.arpa^
-ipPacket.stream^
-ipv4only.arpa^
 null-addr.com^
 null-addr.net^
 null-addr.org^
+ipPacket.stream^
 ##############################
 #########🛜ASUSTeK:##########
 ASUS-aiCam.com^
@@ -74,10 +72,11 @@ Addr.Tools^
 ADSpower-ru.com^
 ADSpower.com^
 AFRiNiC.net^
+AgDsn.de^
 Aimp.ru^
 AlienVault.com^
-AlternativeTo.net^
 AllPCWorld.com^
+AlternativeTo.net^
 AmiUnique.org^
 AmpProject.org^
 Anexia.com^
@@ -99,6 +98,7 @@ BDu.FsTec.ru^
 BestChange.ru^
 BGP.tools^
 BGPview.io^
+Bitly.com^
 BlockChain.com^
 BlockChair.com^
 BootStrapCDN.com^
@@ -108,10 +108,8 @@ BrowserLeaks.org^
 BrowserScan.net^
 bSky.app^
 Bunny.net^
-CDPR.app^
-CDPRed.services^
-CDProjektRed.com^
 CatCert.net^
+CD77.eu^
 cdn-file.HyperOS.mi.com^
 cdn.AccelQ.com^
 cdn.BettertTV.net^
@@ -130,10 +128,12 @@ cdn.StrapSCO.com^
 cdn.TrackJS.com^
 cdn2site.com^
 cdn3.Optimizely.com^
-CD77.eu^
 CDN77.com^
 CDN77.org^
 CDNbunny.org^
+CDPR.app^
+CDPRed.services^
+CDProjektRed.com^
 Cedexis-test.com^
 Cedexis.com^
 Check-host.net^
@@ -165,6 +165,7 @@ ctdCDN.com^
 ctfAssets.net^
 CtrlHack.ru^
 cuRator.pro^
+CyberBits.eu^
 CyberDB.co^
 CyberLeninka.ru^
 CyberSecurity.ATT.com^
@@ -204,6 +205,7 @@ dnsTree.com^
 Docker.com^
 Docs.rs^
 DomainTools.com^
+DotSrc.org^
 DownDetector.com^
 DownDetector.ru^
 DownRadar.ru^
@@ -228,6 +230,8 @@ FACCT.ru^
 Fanboy.co.nz^
 Fastly-Edge.com^
 Fastly.net^
+Fau.de^
+fcix.net^
 FileScan.io^
 Fing.com^
 Fing.io^
@@ -273,6 +277,7 @@ GRC.com^
 GreenBone.net^
 Group-iB.com^
 Group-iB.ru^
+GwDg.de^
 Hacker101.com^
 HackerLab.pro^
 HackerOne.com^
@@ -303,6 +308,7 @@ iiTrust.ru^
 imgbb.com^
 immuniWeb.com^
 in-Com.com^
+init7.net^
 iNodeNinja.net^
 inria.fr^
 intel.com^
@@ -344,6 +350,7 @@ Level1Techs.com^
 Lib-OS.ru^
 Linux.org.ru^
 LiteSpeedTech.com^
+Liu.se^
 LiveConfig.com^
 LocalCDN.org^
 LookIP.net^
@@ -411,6 +418,7 @@ OpenPGP.org^
 OpenWRT.org^
 Orb.link^
 Orb.net^
+OssPlanet.net^
 OWASP.org^
 PackageControl.io^
 Path.net^
@@ -428,11 +436,13 @@ PortSwigger.net^
 ProxyDocker.com^
 PTsecurity.com^
 PulseDive.com^
+PurDue.edu^
 pushServer.eDNA.id^
 pushServer.MfMS.ru^
 PYpi.org^
 Pypi.org^
 PythonHosted.org^
+qoqxc26g.pcyaur0tg2clo0w4.lol^
 qRator.net^
 Qt.io
 Quad9.net^
@@ -505,6 +515,7 @@ TechnoResult.com^
 TegraZone.com^
 Tenable.com^
 TestMatick.com^
+TetaNeutral.net^
 Thawte.com^
 TheHive.ai^
 TicketsCloud.com^
