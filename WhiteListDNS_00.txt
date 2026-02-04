@@ -1395,7 +1395,7 @@ Matrix.to^
 Modular.im^
 Riot.im^
 Vector.im^
-#######🏦Banki.ru:💵######
+######🏦Banki.ru:💵#######
 api.Banki.ru^
 cdn.Banki.ru^
 www.Banki.ru^
@@ -1430,7 +1430,7 @@ RosKazna.ru^
 Nalog.ru^
 es.Pfrf.ru^
 Sfr.gov.ru^
-########ВТБ:##############
+#######🏦ВТБ:💶###########
 async-online.VTB.ru^
 async-online3.VTB.ru^
 back.VTB.fp.f6.security^
@@ -1447,7 +1447,7 @@ smdtpep.VTB.ru^
 sso-app4.VTB.ru^
 VTBmobile.ru^
 www.VTB.ru^
-#####🥚МТС Банк:🟥######
+##№###🥚МТС Банк:🟥######
 api.a.mts.ru^
 api.mt.mts.ru^
 api.mtsdengi.ru^
@@ -1483,10 +1483,3 @@ etaHub.com^
 PHnCDN.com^
 pvvStream.pro^
 xVideos-CDN.com^
-
-
-
-
-
-
-
