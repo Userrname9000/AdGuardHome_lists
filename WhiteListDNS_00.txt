@@ -565,6 +565,7 @@ WoodyNet.net^
 Wormly.com^
 www.Notion.so^
 www.Trex.fi^
+www.Ccleaner.com^
 Xakep.ru^
 XakerForum.com^
 ZenCDN.net^
@@ -1005,6 +1006,7 @@ SkyDrive.wns.Windows.com^
 Skype.com^
 SmartScreen.Microsoft.com^
 storage.Live.com^
+store.Microsoft.com^
 store-images.s-Microsoft.com^
 storeedgefd.dsx.mp.Microsoft.com^
 substrate.Office.com^
