@@ -357,6 +357,7 @@ LookIP.net^
 LowendStock.com^
 LuaDNS.com^
 LwCDN.com^
+mail.me.com^
 MartiCliment.com^
 MaxMind.com^
 Metasploit.com^
@@ -443,7 +444,6 @@ pushServer.MfMS.ru^
 PYpi.org^
 Pypi.org^
 PythonHosted.org^
-qoqxc26g.pcyaur0tg2clo0w4.lol^
 qRator.net^
 Qt.io
 Quad9.net^
@@ -1357,6 +1357,9 @@ Agrd.org^
 Agrd.ru^
 Mask.me^
 mobile-api.AdGuard.org^
+pcyaur0tg2clo0w4.lol^
+qoqxc26g.pcyaur0tg2clo0w4.lol^
+b1npvi6x.pcyaur0tg2clo0w4.lol^
 ########################
 #######Telegram:########
 t.me^
