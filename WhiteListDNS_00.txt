@@ -186,6 +186,7 @@ DDoS-Guard.net^
 DDoS-Guard.ru^
 Defo.ie^
 DeviceInfo.me^
+Disqus.com^
 DigiCert.com^
 Digital-CDN.net^
 Diversion.ch^
@@ -474,6 +475,7 @@ ScanCircle.com^
 searchApp.BundleAssets.example^
 Sectigo.com^
 SecurityHeaders.com^
+SecuritVision.ru^
 SecurityLab.ru^
 Selectel.ru^
 ServerFault.com^
@@ -776,6 +778,7 @@ music.Apple.com^
 mzStatic.com^
 ocsp.Apple.com^
 ocsp2.Apple.com^
+okapi-services.Apple.com^
 ontology.Health.Apple.com^
 panCake.Apple.com^
 pba.Apple.com^
