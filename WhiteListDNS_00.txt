@@ -361,6 +361,7 @@ mail.me.com^
 MartiCliment.com^
 MaxMind.com^
 Metasploit.com^
+MemoryCleaner.kilho.net^
 Mi-img.com^
 miCloud.mi.com^
 MikroTik.com^
@@ -931,6 +932,7 @@ consent.config.Office.com^
 core.Windows.net^
 cosmic.Office.net^
 data.Microsoft.com^
+dcg.microsoft.com
 delivery.mp.Microsoft.com^
 dns.MSFTncsi.com^
 download.Microsoft.com^
@@ -987,9 +989,11 @@ Outlook.Office.com^
 Outlook.Office365.com^
 ow1.res.Office365.com^
 PowershellGallery.com^
+prod.do.dsp.mp.Microsoft.com^
 prod.RewardsPatform.Microsoft.com^
 protection.Outlook.com^
 r.Bing.com^
+relay.communication.microsoft.com
 rnr.Microsoft.com^
 security.Microsoft.com^
 service.Signalr.net^
@@ -1005,6 +1009,7 @@ storage.Live.com^
 store-images.s-Microsoft.com^
 storeedgefd.dsx.mp.Microsoft.com^
 substrate.Office.com^
+support.Microsoft.com^
 t-MsEdge.net^
 techcommunity.Microsoft.com^
 th.Bing.com^
@@ -1015,6 +1020,7 @@ VisualStudio.com^
 VSassets.io^
 VScode-cdn.net^
 wcpStatic.Microsoft.com^
+wdcp.microsoft.com
 WindowsUpdate.com^
 WinGet.run^
 Winstall.app^
