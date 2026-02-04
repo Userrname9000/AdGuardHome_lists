@@ -675,6 +675,7 @@ services.Mozilla.com^
 services.Mozilla.net^
 services.Mozilla.org^
 support.Mozilla.org^
+cdn.Allizom.org^
 Settings.Services.Allizom.org^
 Wiki.Mozilla.org^
 MozAWS.net^
