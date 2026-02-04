@@ -177,7 +177,6 @@ DarkReader.app^
 DarkReader.org^
 Datacamp.co.uk^
 DataCamp.com^
-DataDogHQ.com^
 DataPacket.com^
 DB-ip.com^
 DB.RiPE.net^
