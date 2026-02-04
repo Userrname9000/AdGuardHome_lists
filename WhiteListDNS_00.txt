@@ -22,6 +22,7 @@ v.Recipes^
 ##############################
 example.com^
 example.org^
+in-addr.arpa^
 null-addr.com^
 null-addr.net^
 null-addr.org^
