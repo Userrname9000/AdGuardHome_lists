@@ -59,7 +59,8 @@ Amazonforum.com^
 media-Amazon.com^
 SSL-images-Amazon.com^
 ##############################
-3dnews.ru^
+3DNews.ru^
+3GPP.org^
 3GPPnetwork.org^
 4PDA.to^
 AboutSSL.org^
@@ -443,14 +444,13 @@ PurDue.edu^
 pushServer.eDNA.id^
 pushServer.MfMS.ru^
 PYpi.org^
-Pypi.org^
 PythonHosted.org^
 qRator.net^
 Qt.io
 Quad9.net^
 Qualys.com^
 QUIC-go.net^
-Quic.Tech^
+quic.Tech^
 QUICwg.org^
 Quttera.com^
 RapidSSL.com^
@@ -578,7 +578,7 @@ ZeroSSL.com^
 cdn1.Ozone.ru^
 api.finance.Ozon.ru^
 ##############################
-#######🗺️GPS:🧭##############
+##########🗺️GPS:🧭###########
 BroadCom.com^
 CoMaps.app^
 GLpals.com^
@@ -602,7 +602,7 @@ OrganicMaps.app^
 OSMand.net^
 QcomGeo.com^
 QcomGeo2.com^
-QGis.org^
+qGis.org^
 Qualcomm.com^
 supl.Gooogle.com^
 supl.QcomGPS.com^
@@ -624,7 +624,7 @@ origin-disk.2Gis.com^
 photo.2Gis.com^
 uss.2Gis.com^
 ##############################
-#####🗄️Host4️safety🖼:####
+#######🗄️Host4️safety🖼:#######
 AnonPic.net^
 AnoPic.ag^
 AnoPic.us^
@@ -646,7 +646,7 @@ Temp.pm^
 Turbo.my^
 XxFot.com^
 ##############################
-######🦊Mozilla:🔥##########
+########🦊Mozilla:🔥#########
 DetectPortal.Firefox.com^
 addons.Mozilla.org^
 apps.MZstatic.com^
@@ -676,7 +676,7 @@ Wiki.Mozilla.org^
 MozAWS.net^
 MozGCP.net^
 ##############################
-#####📷Pint+Insta🖼️:#########
+#######📷Pint+Insta🖼️:#######
 api.Facebook.com^
 api.instagram.com^
 api.pinterest.com^
@@ -716,7 +716,7 @@ www.Facebook.com^
 www.instagram.com^
 z-p42-chat-e2ee-ig-fallback.Facebook.com^
 ##############################
-#######🍎Apple:##############
+###########🍎Apple:⬜########
 aaplimg.com^
 AlBert.Apple.com^
 Apple-DNS.net^
@@ -800,24 +800,23 @@ xp.Apple.com^
 LoonaBrowser.ru^
 ##############################
 #####🎨Art-Tools:🛠️##########
-AdobeLogin.com^
-Adobe.io^
-www.Adobe.com^
-AdobeCCstatic.com^
 Beehiiv.com^
 Canva.com^
-VlogNow.me^
-cc-api-cp.Adobe.io^
-cdn.cp.Adobe.io^
-TextStudio.com^
 iBisPaint.com^
 iMgix.net^
-Pling.com
-media.Beehiiv.com^
 OptiFyr.com^
+Pling.com
 RawPixel.com^
+TextStudio.com^
 use.TypeKit.net^
-client.Messaging.Adobe.com^s
+VlogNow.me^
+Adobe.io^
+cc-api-cp.Adobe.io^
+cdn.cp.Adobe.io^
+AdobeCCstatic.com^
+AdobeLogin.com^
+client.Messaging.Adobe.com^
+www.Adobe.com^
 ##############################
 ##📧🟦Google + YouTube🟥🎥##
 Android.com^
@@ -1072,7 +1071,7 @@ api.iOS-KP.store^
 api.SrvKP.com^
 ww38.kpdl.cc^
 ##############################
-########💻VPN:🗽#############
+###########💻VPN:🗽##########
 176.123.8.97:8443^
 176.123.8.97^
 2a02:e00:ffec:4b8::1^
@@ -1101,7 +1100,7 @@ Whoer.net^
 Whox.is^
 WireSock.net^
 ##############################
-#####🏴‍☠️Torrents🗃️:#####
+#######🏴‍☠️Torrents🗃️:#########
 _bittorrent-tracker._tcp.dom.ru^
 _bittorrent-tracker._tcp.dynamic.tula.ertelecom.ru^
 _bittorrent-tracker._tcp.ru^
@@ -1139,6 +1138,7 @@ bt2.t-ru.org^
 ##############################
 #######🖥️Comss.one:📝########
 Comss.net^
+Comss.online^
 check.Comss.one^
 dns.Comss.one^
 router.Comss.one^
