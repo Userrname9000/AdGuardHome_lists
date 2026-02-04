@@ -611,6 +611,9 @@ supl.Qualcomm.com^
 supl.Qualcomm^
 supl.qxWZ.com^
 VirtualEarth.net^
+locate.Apple.com^
+locator.Apple.com^
+com.Apple.locationd
 Lcdn-Locator.Apple.com^
 LocationHistory-pa.GoogleApis.com^
 GeoMobileServices-pa.GoogleApis.com^
@@ -1447,7 +1450,7 @@ smdtpep.VTB.ru^
 sso-app4.VTB.ru^
 VTBmobile.ru^
 www.VTB.ru^
-##№###🥚МТС Банк:🟥######
+#####🏦🥚МТС Банк:🟥######
 api.a.mts.ru^
 api.mt.mts.ru^
 api.mtsdengi.ru^
@@ -1471,11 +1474,11 @@ ssl.mts.ru^
 sentry.obs.mts.ru
 static.mtsdengi.ru^
 ve-public-prod.mts.ru^
-######Habr:##############
+#########💻Habr:#############
 Habr.com^
 HabraHabr.ru^
 HabraStorage.org^
-######Etc.##############
+#########Etc.################
 Dosug71.net^
 Dosug71.org^
 DosugBarTula.org^
