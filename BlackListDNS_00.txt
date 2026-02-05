@@ -201,7 +201,9 @@
 ||inMobi.com^$important
 ||Launches.AppsFlyerSDK.com^$important
 ||Logger.instagram.com^
+||MailJet.com^
 ||m.ok.ru^
+||MRadx.net^
 ||media.Tenor.com^$important
 ||MeetUp.com^$important
 ||OneSignal.com^
