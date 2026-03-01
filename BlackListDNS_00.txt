@@ -149,7 +149,6 @@
 #||GigaChat-bot.prom.app.SberDevices.ru^$important
 #||id.Sber.ru.homeworld264^$important
 #||mpSbol.ant.SberBank.ru^$important
-#||online.SberBank.ru^$important
 #||Sber.ru^$important
 #||SberBank.ru^$important
 #||third-party-app.SberDevices.ru^$important
