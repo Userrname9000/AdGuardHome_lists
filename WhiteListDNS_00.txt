@@ -443,6 +443,7 @@ PeeringDB.com^
 pgl.YoYo.org^
 Pi-Hole.net^
 Pingless.dev^
+PixelDrain.com^
 PixelScan.net^
 Pkgs.org^
 PlayFabApi.com^
@@ -456,6 +457,7 @@ pushServer.eDNA.id^
 pushServer.MfMS.ru^
 PYpi.org^
 PythonHosted.org^
+Philips.com^
 qRator.net^
 Qt.io
 Quad9.net^
