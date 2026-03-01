@@ -7,7 +7,6 @@
 homeworld264^
 homeworld264.^$dnstype=SOA,dnsrewrite=NOERROR;SOA;ns.homeworld264.;hostmaster.homeworld264.;2025120301;3600;1200;1209600;3600^
 #######AntiZapret:############
-.^
 arpa^
 ipFS.io^
 ipFS.tech^
@@ -462,9 +461,9 @@ qRator.net^
 Qt.io
 Quad9.net^
 Qualys.com^
-QUIC-go.net^
-quic.Tech^
-QUICwg.org^
+QUiC-go.net^
+QUiC.Tech^
+QUiCwg.org^
 Quttera.com^
 RapidSSL.com^
 ReadMeSSL.com^
