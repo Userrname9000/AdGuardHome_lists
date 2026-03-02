@@ -1052,7 +1052,7 @@ VisualStudio.com^
 VSassets.io^
 VScode-cdn.net^
 wcpStatic.Microsoft.com^
-wdcp.microsoft.com
+wdcp.Microsoft.com
 WindowsUpdate.com^
 WinGet.run^
 Winstall.app^
@@ -1181,7 +1181,7 @@ api.SteamPowered.com^
 DeckBrew.xyz^
 Decky.net^
 FlatPak.Elementary.io^
-ingesteer.services-prod.nsvcs.net^
+ingesteer.Services-prod.nsvcs.net^
 ProtonDB.com^
 Steam-Chat.com^
 SteamCDN-a.AkamaiHD.net^
@@ -1189,6 +1189,7 @@ SteamCloudWweden.blob.core.Windows.net^
 SteamCommunity.com^
 SteamContent.com^
 SteamDB.info^
+SteamGridDB.com^
 SteamLoopBack.Host^
 SteamOS.cloud^
 SteamPowered.com^
