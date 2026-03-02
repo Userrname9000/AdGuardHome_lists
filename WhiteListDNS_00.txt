@@ -638,6 +638,7 @@ Lcdn-Locator.Apple.com^
 Locate-cld-aeuw1.Apple.com^
 LocationHistory-pa.GoogleApis.com^
 GeoMobileServices-pa.GoogleApis.com^
+2Gis.com^
 2Gis.ru^
 api.2Gis.com^
 api.2Gis.ru^
@@ -816,6 +817,7 @@ stocks-data-service.Apple.com^
 support.Apple.com^
 swallow.Apple.com^
 time.Apple.com^
+testflight.Apple.com^
 use1-register-appattest-prod-aws-prod.Apple.com^
 valid.Apple.com^
 WeatherKit.Apple.com^
@@ -1004,6 +1006,7 @@ msftConnecttest.com^
 msftNcsi.com^
 msftStatic.com^
 msIdentity.com^
+mobileAppCommunicator.Auth.Microsoft.com^
 my.MicrosoftPersonalContent.com^
 neLReports.net^
 netmon.Azure.com^
