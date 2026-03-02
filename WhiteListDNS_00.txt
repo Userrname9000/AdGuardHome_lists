@@ -457,6 +457,8 @@ pushServer.MfMS.ru^
 PYpi.org^
 PythonHosted.org^
 Philips.com^
+Philips.ru^
+Shields.io^
 qRator.net^
 Qt.io
 Quad9.net^
@@ -965,6 +967,7 @@ cosmic.Office.net^
 data.Microsoft.com^
 dcg.microsoft.com
 delivery.mp.Microsoft.com^
+displayCatalog.mp.Microsoft.com^
 dns.MSFTncsi.com^
 download.Microsoft.com^
 download.WindowsUpdate.com^
