@@ -1168,9 +1168,10 @@ router.bittorrent.com^
 bt2.t-ru.org^
 ##############################
 #######🖥️Comss.one:📝########
+cdn.Comss.ru^
+check.Comss.one^
 Comss.net^
 Comss.online^
-check.Comss.one^
 dns.Comss.one^
 router.Comss.one^
 www.Comss.ru^
