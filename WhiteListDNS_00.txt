@@ -1059,6 +1059,7 @@ update.Microsoft.com^
 VisualStudio.com^
 VSassets.io^
 VScode-cdn.net^
+wdcp.Microsoft.com
 wcpStatic.Microsoft.com^
 wdcp.Microsoft.com
 WindowsUpdate.com^
