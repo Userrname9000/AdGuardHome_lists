@@ -18,7 +18,7 @@ Explosive.Homes^
 TheNewOne.lol^
 v.31337.lol^
 v.Recipes^
-iPFS.dWeb.Link^
+iPFS.DWeb.Link^
 ##############################
 example.com^
 example.org^
