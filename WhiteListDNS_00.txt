@@ -642,6 +642,7 @@ LocationHistory-pa.GoogleApis.com^
 GeoMobileServices-pa.GoogleApis.com^
 2Gis.com^
 2Gis.ru^
+api.auth.2Gis.com^
 api.2Gis.com^
 api.2Gis.ru^
 bss.2Gis.com^
