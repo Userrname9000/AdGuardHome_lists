@@ -948,6 +948,7 @@ apps.Microsoft.com^
 arc.MSN.com^
 aria.Microsoft.com^
 assets.MSN.com^
+Azure.com^
 AzureEdge.net^
 AzureFD-Test.net^
 AzureFD.net^
