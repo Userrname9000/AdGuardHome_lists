@@ -381,7 +381,8 @@ MirConnect.ru^
 MirOnline.ru^
 mirrors.CerNet.edu.cn^
 mirrors.Cqupt.edu.cn^
-mirrors.Hust.edu.cn
+mirrors.BFSU.edu.cn^
+mirrors.HUST.edu.cn
 mirrors.NJU.edu.cn^
 mirrors.USTC.edu.cn^
 Misaka.one^
@@ -430,6 +431,7 @@ OpenDNS.com^
 OpenNet.ru^
 OpenNIC.org^
 OpenPGP.org^
+OpenSource.org^
 OpenWRT.org^
 Orb.link^
 Orb.net^
@@ -1094,6 +1096,7 @@ ToSpotify.com^
 ##############################
 ########📽️Kino.pub:🍿########
 Kino.Pub^
+KinoPub.link^
 KinoPub.online^
 KPapp.link^
 iOS-KP.store^
