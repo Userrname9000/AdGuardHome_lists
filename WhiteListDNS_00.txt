@@ -229,6 +229,7 @@ emojiGraph.org^
 EnaCDN.net^
 EncryptedSNi.com^
 Entware.net^
+Entrust.net^
 Eset.com^
 F-Droid.org^
 FACCT.ru^
