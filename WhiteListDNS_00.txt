@@ -299,6 +299,7 @@ HE.net^
 HelpLook.net^
 HerokuDNS.com^
 HideMy.Name^
+Hide.mn^
 http3.is^
 http3Check.net^
 http3Checker.com^
