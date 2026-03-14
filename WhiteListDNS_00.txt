@@ -1073,9 +1073,8 @@ update.Microsoft.com^
 VisualStudio.com^
 VSassets.io^
 VScode-cdn.net^
-wdcp.Microsoft.com
+wdcp.Microsoft.com^
 wcpStatic.Microsoft.com^
-wdcp.Microsoft.com
 WindowsUpdate.com^
 WinGet.run^
 Winstall.app^
@@ -1279,6 +1278,7 @@ ZeniMaxOnline.com^
 ##############################
 #######☁️Cloudflare🟧:#######
 ##############################
+ArgoTunnel.com^
 1dot1dot1dot1.Cloudflare-DNS.com^
 a.nel.Cloudflare.com^
 aim.Cloudflare.com^
