@@ -15,8 +15,11 @@ ipFS.tech^
 2ip.ru^
 2ipCore.com^
 2ipX.com^
+proxy-ssl.js^
+proxy.pac^
 Explosive.Homes^
 TheNewOne.lol^
+thenewone.lol.proxy.pac^
 v.31337.lol^
 v.Recipes^
 iPFS.DWeb.Link^
@@ -401,6 +404,7 @@ NcSc.Gov.uk
 NetCup.com^
 Netify.ai^
 Netlify.com^
+NetMonitor.ing^
 NextCloud.com^
 NextDNS.io^
 Nexus-CDN.com^
