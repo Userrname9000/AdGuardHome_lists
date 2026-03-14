@@ -1006,6 +1006,7 @@ gfx.ms^
 go.Microsoft.com^
 graph.Microsoft.com^
 igmp.Mcast.net^
+inference.Location.Live.net^
 iris.Microsoft.com^
 learn.Microsoft.com^
 login.live.com^
