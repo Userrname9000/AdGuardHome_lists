@@ -1196,13 +1196,12 @@ bt2.t-ru.org^
 ##############################
 #######🖥️Comss.one📝:########
 ##############################
-cdn.Comss.ru^
+Comss.one^
 check.Comss.one^
 Comss.net^
 Comss.online^
 dns.Comss.one^
 router.Comss.one^
-www.Comss.ru^
 ##############################
 #######🖥️🕹️Steam🎮📺:#######
 ##############################
