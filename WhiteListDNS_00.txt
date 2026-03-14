@@ -112,6 +112,7 @@ BrowserLeaks.net^
 BrowserLeaks.org^
 BrowserScan.net^
 bSky.app^
+Bubble.io^
 Bunny.net^
 CatCert.net^
 CD77.eu^
@@ -985,6 +986,7 @@ dcg.microsoft.com
 delivery.mp.Microsoft.com^
 displayCatalog.mp.Microsoft.com^
 dns.MSFTncsi.com^
+docs.Microsoft.com^
 download.Microsoft.com^
 download.WindowsUpdate.com^
 ecs.Office.com^
