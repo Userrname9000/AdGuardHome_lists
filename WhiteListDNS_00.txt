@@ -302,8 +302,6 @@ Harica.gr^
 HE.net^
 HelpLook.net^
 HerokuDNS.com^
-HideMy.Name^
-Hide.mn^
 http3.is^
 http3Check.net^
 http3Checker.com^
@@ -1147,6 +1145,8 @@ Liberty-vpn.ru^
 LibertyVPN.app^
 Mullvad.net^
 ntc.Party^
+HideMy.Name^
+Hide.mn^
 obfusGated.com^
 openVPN.net^
 openVPN.org^
@@ -1157,6 +1157,7 @@ proxyLiberty.com^
 proxyLiberty.ru^
 pVPN.org^
 pVPN.pw^
+SoftEther.org^
 SurfSharkDNS.com^
 TrustTunnel.org^
 v4freedom.com^
