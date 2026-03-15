@@ -236,6 +236,7 @@ EncryptedSNi.com^
 Entware.net^
 Entrust.net^
 Eset.com^
+eSign.yyyue.xyz^
 F-Droid.org^
 FACCT.ru^
 Fanboy.co.nz^
@@ -355,6 +356,8 @@ KinoPoisk.ru^
 KomodoLabs.com^
 Kumi.systems^
 kxCDN.com^
+AltStore.io^
+LazyShop.app^
 LacNIC.net^
 LanComnet.net^
 LeaderSSL.ru^
