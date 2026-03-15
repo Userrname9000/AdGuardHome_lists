@@ -922,7 +922,6 @@ GoogleVideo.com^
 GoogleZip.net^
 gStatic.com^
 gvt1.com^
-YTimg.com^
 inbox.Google.com^
 L.Google.com^
 Lh1.Google.com^
