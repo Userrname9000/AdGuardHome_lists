@@ -102,6 +102,7 @@ AuroraOSS.com^
 AusLogics.com^
 Auth0.com^
 AuthPass.app^
+AvanPost.ru^
 b-CDN.net^
 BadSSL.com^
 BDu.FsTec.ru^
@@ -528,6 +529,7 @@ SpeedTest.net^
 SpeedTestCustom.com^
 SplunkCloud.com^
 SSL.com^
+SSLmate.com^
 SSL.Kaptcha.com^
 SSLDragon.com^
 SSLLabs.com^
