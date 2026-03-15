@@ -973,6 +973,7 @@ arc.MSN.com^
 aria.Microsoft.com^
 assets.MSN.com^
 Azure.com^
+AzureEdge.us^s
 AzureEdge.net^
 AzureFD-Test.net^
 AzureFD.net^
