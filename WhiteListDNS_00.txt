@@ -353,6 +353,7 @@ Kali.org^
 Kaspersky.com^
 Kaspersky.ru^
 KayakoCDN.com^
+Keenetic.com^
 KDE-Look.org^
 KDE.org^
 KinoPoisk.ru^
