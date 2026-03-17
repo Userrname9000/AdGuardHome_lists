@@ -124,6 +124,7 @@ CatCert.net^
 CD77.eu^
 cdn-file.HyperOS.mi.com^
 cdn.AccelQ.com^
+cdn.AmCharts.com^
 cdn.BettertTV.net^
 cdn.ContentFul.com^
 cdn.CookieLaw.org^
