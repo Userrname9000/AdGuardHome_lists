@@ -14,6 +14,7 @@ arpa^
 2ipCore.com^
 2ipX.com^
 31337.lol^
+Localhost^
 Explosive.Homes^
 iPFS.DWeb.Link^
 ipFS.io^
