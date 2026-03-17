@@ -232,7 +232,7 @@
 ||play.googleapis.com.homeworld264^$important
 ||Report.AppMetrica.Yandex.net.homeworld264^$important
 ||u.StartUp.mobile.WebVisor.com.homeworld264^$important
-
+||ads.RuStore.ru^$important
 ||www.gstatic.com.homeworld264^$important
 
 
