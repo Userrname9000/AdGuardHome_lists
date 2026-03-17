@@ -82,6 +82,7 @@ ADSpower.com^
 AFRiNiC.net^
 AgDsn.de^
 Aimp.ru^
+AliDNS.com^
 AlienVault.com^
 AllPCWorld.com^
 AlternativeTo.net^
@@ -512,6 +513,7 @@ SecuritVision.ru^
 SecurityHeaders.com^
 SecurityLab.ru^
 Selectel.ru^
+Slc.tl^
 ServerFault.com^
 Shields.io^
 Shodan.io^
