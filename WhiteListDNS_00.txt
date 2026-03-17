@@ -1041,6 +1041,7 @@ ms-acdc.Office.com^
 msAuth.net^
 MSdxCDN.Microsoft.com^
 MsEdge.net^
+MsEdge.api.cdp.Microsoft.com^
 msftAuth.net^
 msftConnecttest.com^
 msftNcsi.com^
