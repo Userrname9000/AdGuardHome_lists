@@ -260,6 +260,7 @@ FlowPlayer.com^
 FluffLeinfra.net^
 FontAwesome.com^
 ftCDN.net^
+FKwallet.io^
 Future-tec.systems^
 FwUpd.org^
 GameLoft.com^
@@ -422,6 +423,7 @@ NOC.org^
 NotePad-plus-plus.org^
 Notion.site^
 NotionUserContent.com^
+ModDB.com^
 nsLookup.io^
 NSPK.ru^
 ntp.FiORD.ru^
@@ -539,6 +541,7 @@ StackExchange.com^
 StackOverflow.com^
 Star-History.com^
 Startpage.com^
+StickerCommunity.com^
 store.RG-AdGuard.net^
 StormWall.pro^
 Stripe.com^
@@ -564,6 +567,7 @@ TimeWeb.com^
 TLS-Ech.dev^
 TorProject.org^
 TrustLook.com^
+TrustPilot.com^
 TryHackMe.com^
 u1Host.com^
 UBi.com^
@@ -623,6 +627,7 @@ zScaler.com^
 BroadCom.com^
 CoMaps.app^
 GLpals.com^
+Geo.cookie-script.com^
 iP2Location^
 iPGeoLocation.io^
 iZatCloud.cn^
@@ -847,6 +852,7 @@ testflight.Apple.com^
 use1-register-appattest-prod-aws-prod.Apple.com^
 valid.Apple.com^
 WeatherKit.Apple.com^
+Weather-Edge.Apple.com^
 Weather-Map2.Apple.com^
 websitereview.Apple.com^
 websitereview.corp.Apple.com^
@@ -1295,6 +1301,7 @@ ZeniMaxOnline.com^
 #######☁️Cloudflare🟧:#######
 ##############################
 ArgoTunnel.com^
+Cloudflare.dev^
 nonexistent.Cloudflare.com^
 is-cf.CloudflareResolve.com^
 CloudflareAccess.com^
