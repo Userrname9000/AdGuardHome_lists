@@ -587,6 +587,7 @@ VDSina.ru^
 VeriSign.com^
 VeriSignLabs.com^
 Viagenie.ca^
+ViewDNS.info^
 Vimeo.com^
 VimeoCDN.com^
 VipCoin.cc^
