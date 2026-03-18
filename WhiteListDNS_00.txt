@@ -122,6 +122,7 @@ BrowserScan.net^
 bSky.app^
 Bubble.io^
 Bunny.net^
+CanBeUseful.com^
 CatCert.net^
 CD77.eu^
 cdn-file.HyperOS.mi.com^
