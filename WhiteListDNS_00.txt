@@ -334,6 +334,8 @@ init7.net^
 iNodeNinja.net^
 inria.fr^
 intel.com^
+intercom.io
+intercomcdn.com
 invisioncic.com^
 ip-APi.com^
 ip-Tracker.org^
@@ -522,6 +524,7 @@ SimpleScraper.io^
 SimpleSVG.com^
 SiteChecker.pro^
 SmartGsLb.com^
+Smart-gLocal.com^
 SNBForums.com^
 SndCDN.com^
 SNi.global.Fastly.net^
@@ -550,6 +553,7 @@ StickerCommunity.com^
 store.RG-AdGuard.net^
 StormWall.pro^
 Stripe.com^
+Stripe.Network^
 StrongPath.net^
 StunProtocol.org^
 SubDomainRadar.io^
@@ -585,6 +589,7 @@ URLert.com^
 URLquery.net^
 URLscan.io^
 UserTrust.com^
+Yadda.dev^
 vAiti.io^
 Valtrix.org^
 VDSina.com^
