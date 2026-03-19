@@ -137,6 +137,7 @@ cdn.GrowthBook.io^
 cdn.ipRegistry.co^
 cdn.jsDelivr.net^
 cdn.Ninja^
+CDNpk.net^
 cdn.Optimizely.com^
 cdn.prod.Website-files.com^
 cdn.Statically.io^
@@ -274,6 +275,7 @@ GeeksforGeeks.org^
 GeForce.com^
 GetIntra.org^
 gHacks.net^
+Ghostery.net^
 GitFlic.ru^
 GitGuardian.com^
 GitHub.com^
