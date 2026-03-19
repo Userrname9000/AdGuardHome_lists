@@ -210,6 +210,9 @@
 ||Deita.ru^$important
 ||DemDex.net^$important
 ||Digital.Gov.RU^$important
+||FSO.gov.ru^$important
+||RKN.gov.ru^$important
+||Government.ru^$important
 ||erTelecom.ru^$important
 ||ExperienceLeague.Adobe.com^$important
 ||Fingerprint.T-static.ru^$important
