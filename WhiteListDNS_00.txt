@@ -1167,7 +1167,9 @@ ww38.kpdl.cc^
 Astrill.com^
 BlancApp^
 BlancCDN.com^
+BlancSync.com^
 BlancPayments.com^
+BlancVPN.app^
 BlancVPN.fyi^
 BlncApi.com^
 cdn.proxy-Liberty.com^
