@@ -79,6 +79,7 @@ AdBlock.TurtleCute.org^
 Addr.Tools^
 ADSpower-ru.com^
 ADSpower.com^
+Adonit-SDK.net^
 AFRiNiC.net^
 AgDsn.de^
 Aimp.ru^
@@ -1119,6 +1120,7 @@ techcommunity.Microsoft.com^
 th.Bing.com^
 time.Windows.com^
 trafficManager.net^
+trafficShaping.dsp.mp.Microsoft.com^
 update.Microsoft.com^
 VisualStudio.com^
 VSassets.io^
