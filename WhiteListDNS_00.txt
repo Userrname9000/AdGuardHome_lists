@@ -1165,6 +1165,7 @@ ww38.kpdl.cc^
 176.123.8.97^
 2a02:e00:ffec:4b8::1^
 Astrill.com^
+BlancApp^
 BlancCDN.com^
 BlancPayments.com^
 BlancVPN.fyi^
