@@ -171,6 +171,7 @@
 ##################################
 ############Etc.##################
 ||xn--^$important
+||toolsredsglow.com^$important
 ||go.2038.pro^$important
 ||api-statist.Tinkoff.ru^$important
 ||sage-collector.TBank.ru^$important
