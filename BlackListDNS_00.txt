@@ -253,3 +253,4 @@
 ||webViewplus.Mooflu.com^$important
 ||Wi-Fi.ru^$important
 ||www.gstatic.com.homeworld264^$important
+||trorqeok.com^$important
