@@ -41,6 +41,7 @@ ASUScomm.com^
 ASUSWrt-Merlin.net^
 RouterFeedback.ASUS.com^
 TrendMicro.com^
+TrendMicro.de^
 ##############################
 ###########Akamai:############
 AkaDNS.net^
@@ -230,6 +231,9 @@ DotSrc.org^
 DownDetector.com^
 DownDetector.ru^
 DownRadar.ru^
+DownloadMaster.net^
+WestByte.com^
+SaveVideo4me.com^
 DriverEasy.com^
 DrWeb.ru^
 DuckDuckGo.com^
