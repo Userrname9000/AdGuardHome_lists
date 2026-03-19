@@ -153,6 +153,7 @@ CDPRed.services^
 CDProjektRed.com^
 Cedexis-test.com^
 Cedexis.com^
+ChargeBee.com^
 Check-host.net^
 CheckAdblock.ru^
 ChinaJSC.com^
@@ -314,6 +315,7 @@ Harica.gr^
 HE.net^
 HelpLook.net^
 HerokuDNS.com^
+hCaptcha.com^
 http3.is^
 http3Check.net^
 http3Checker.com^
