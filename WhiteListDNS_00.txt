@@ -1179,6 +1179,7 @@ BlancVPN.app^
 BlancVPN.fyi^
 BlncApi.com^
 FromBlancWithLove.com^
+WithBlancVPN.online^
 CTReserve.de^
 cdn.proxy-Liberty.com^
 cdn.proxy-Liberty.ru^
