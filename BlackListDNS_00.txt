@@ -169,6 +169,9 @@
 ##################################
 ############Etc.##################
 ||xn--^$important
+||api-statist.tinkoff.ru^$important
+||sage-collector.tbank.ru^$important
+||sso-forms-prod.t-static.ru^$important
 ||2ndPhone.org^$important
 ||2ndPhone.org^^$important
 ||2number.app^$important
