@@ -169,6 +169,10 @@
 ##################################
 ############Etc.##################
 ||xn--^$important
+||api.oneme.ru^$important
+||ifconfig.me^$important
+||ip.Mail.ru^$important
+||ipify.org^$important
 ||api-statist.tinkoff.ru^$important
 ||sage-collector.tbank.ru^$important
 ||sso-forms-prod.t-static.ru^$important
