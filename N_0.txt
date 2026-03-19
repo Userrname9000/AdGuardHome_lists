@@ -1,4 +1,4 @@
-@@||*.*.IPfs.io^
+@@||*.IPfs.io^
 @@||*.2ip.io^
 @@||*.2ip.ru^
 @@||*.2ipX.com^
