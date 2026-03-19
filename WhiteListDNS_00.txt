@@ -388,6 +388,7 @@ LiveConfig.com^
 LocalCDN.org^
 LookIP.net^
 LowendStock.com^
+Lokalise.com^
 LuaDNS.com^
 LwCDN.com^
 mail.me.com^
@@ -523,6 +524,7 @@ Slc.tl^
 ServerFault.com^
 Shields.io^
 Shodan.io^
+ShoreBird.dev^
 SimilarWeb.com^
 SimpleScraper.io^
 SimpleSVG.com^
