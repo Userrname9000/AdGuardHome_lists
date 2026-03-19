@@ -627,6 +627,7 @@ WikiPedia.org^
 WinitPro.ru^
 WoodyNet.net^
 Wormly.com^
+www.ArtRage.com^
 www.CCleaner.com^
 www.Notion.so^
 www.Trex.fi^
@@ -1609,8 +1610,14 @@ m.VTB.ru^
 online.VTB.ru^
 onlineSales.VTB.ru^
 s.VTB.ru^
-smdtpep.VTB.ru^
+SMDTpep.VTB.ru^
+sso-app.VTB.ru^
+sso-app0.VTB.ru^
+sso-app1.VTB.ru^
+sso-app2.VTB.ru^
+sso-app3.VTB.ru^
 sso-app4.VTB.ru^
+sso-app5.VTB.ru^
 VTBmobile.ru^
 www.VTB.ru^
 ##############################
@@ -1622,6 +1629,7 @@ api.MTSdengi.ru^
 api.YourFinTech.online^
 captcha.MTS.ru^
 cm.a.MTS.ru^
+eSiM.MTS.ru^
 federation.MTS.ru^
 freecom-app.MTS.ru^
 id.MTS.ru^
