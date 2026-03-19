@@ -32,6 +32,7 @@
 ||aviasales.fun^$important
 ##################################
 #############Yandex:##############
+||*.ipv6-internet.yandex.net^$important
 ||*.AdFox.Yandex.com^$important
 ||*.AdFox.Yandex.net^$important
 ||*.AdFox.Yandex.ru^$important
