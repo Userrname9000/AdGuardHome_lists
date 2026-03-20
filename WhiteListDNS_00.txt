@@ -224,6 +224,7 @@ dnsLeakTest.net^
 dnsLeakTest.org^
 dnsPrivacy.org^
 dnsTree.com^
+DSOGaming.com^
 Docker.com^
 Docs.rs^
 DomainTools.com^
@@ -460,6 +461,7 @@ OneGet.org^
 OneTag-sys.com^
 OneTrust.com^
 OoklaServer.net^
+OpenCollective.com^
 OpenDNS.com^
 OpenNet.ru^
 OpenNIC.org^
