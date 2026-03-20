@@ -1196,6 +1196,7 @@ BlancPayments.com^
 BlancVPN.app^
 BlancVPN.fyi^
 BlncApi.com^
+GetBlancVPN.com^
 FromBlancWithLove.com^
 WithBlancVPN.online^
 CTReserve.de^
