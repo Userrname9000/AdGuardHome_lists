@@ -400,6 +400,7 @@ LowendStock.com^
 LuaDNS.com^
 LwCDN.com^
 mail.me.com^
+MaxSwap.cc^
 MartiCliment.com^
 MaxMind.com^
 MemoryCleaner.kilho.net^
@@ -623,6 +624,10 @@ w3.org^
 Wander.Science^
 WappAlyzer.com^
 web.AlfaBank.ru^
+WebMoney.com^
+Web.money^
+WebMoney.ru^
+WmTransfer.com^
 WebDC.ru^
 WesternDigital.com^
 WhatWG.org^
