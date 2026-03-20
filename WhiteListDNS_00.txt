@@ -1183,7 +1183,7 @@ api.iOS-KP.store^
 api.SrvKP.com^
 ww38.kpdl.cc^
 ##############################
-###########💻VPN🗽:##########
+###########💻VPN🗽:###########
 ##############################
 176.123.8.97:8443^
 176.123.8.97^
@@ -1213,6 +1213,7 @@ ntc.Party^
 obfusGated.com^
 openVPN.net^
 openVPN.org^
+PaperVPN.io^
 Prosto-VPN.com^
 prostoVPN.org^
 proxy-Liberty.ru^
