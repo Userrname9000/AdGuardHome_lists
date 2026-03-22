@@ -255,3 +255,4 @@
 ||www.gstatic.com.homeworld264^$important
 ||trorqeok.com^$important
 ||zoominfo.com^$important
+||max.ru^$important
