@@ -1178,7 +1178,8 @@ KinoPub.online^
 KPapp.link^
 KPstv.net^
 iOS-KP.store^
-m.pushBR.com^
+pushBR.com^
+rtbcdn.ru^
 srvKP.com^
 SmartTVcdn.online^
 4ybq.hwl.ovh^
@@ -1187,13 +1188,14 @@ CDNtoGo.net^
 Digital-CDN.net^
 Mos-GorSud.co^
 Mos-GorSud.site^
-KPdl.link
+KPdl.link^
 Zamerka.com^
 api.iOS-KP.store^
 SrvKP.com^
 api.SrvKP.com^
 kpdl.cc^
 ww38.kpdl.cc^
+euob.primecirclenet.com^
 ##############################
 ###########💻VPN🗽:###########
 ##############################
