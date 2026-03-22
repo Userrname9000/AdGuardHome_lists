@@ -324,6 +324,7 @@ hCaptcha.com^
 HE.net^
 HelpLook.net^
 HerokuDNS.com^
+hstspreload.org^
 http3.is^
 http3Check.net^
 http3Checker.com^
