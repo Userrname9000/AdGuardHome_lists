@@ -564,6 +564,7 @@ StackExchange.com^
 StackOverflow.com^
 Star-History.com^
 Startpage.com^
+StandOff365.com^
 StickerCommunity.com^
 store.RG-AdGuard.net^
 StormWall.pro^
