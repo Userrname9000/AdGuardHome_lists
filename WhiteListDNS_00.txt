@@ -34,8 +34,7 @@ null-addr.net^
 null-addr.org^
 ipPacket.stream^
 ##############################
-#########🛜ASUSTeK:##########
-ASUS-aiCam.com^
+#########🛜ASUSTeK:############
 ASUS.com^
 ASUScomm.com^
 ASUSWrt-Merlin.net^
