@@ -625,6 +625,7 @@ VimeoCDN.com^
 VipCoin.cc^
 VirusTotal.com^
 Vytal.io^
+VK-cdnvideo.com^
 w3.org^
 Wander.Science^
 WappAlyzer.com^
