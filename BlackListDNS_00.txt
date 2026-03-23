@@ -256,3 +256,4 @@
 ||trorqeok.com^$important
 ||zoominfo.com^$important
 ||max.ru^$important
+||mindbox.ru^$important
