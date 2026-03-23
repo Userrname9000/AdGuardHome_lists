@@ -1420,7 +1420,7 @@ WhoAmi.Cloudflare^
 www.Cloudflare.com^
 СloudflareStatus.com^
 ##############################
-#########🟥Yandex🔍:#########
+#########🟥Yandex🔍:##########
 ##############################
 api-Maps.Yandex.com^
 api-Maps.Yandex.net^
@@ -1512,6 +1512,7 @@ YandexCloud.ru^
 YCcdn.com^
 YCcdn.net^
 YCcdn.ru^
+video.cloud.Yandex.net^
 ##############################
 #########🥷AdGuard:🛡️########
 ##############################
