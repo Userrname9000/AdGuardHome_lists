@@ -590,8 +590,9 @@ TheHive.ai^
 TicketsCloud.com^
 TidalCloud.com^
 Time4VPS.com^
-TimeWeb.cloud^
-TimeWeb.com^
+timeWeb.cloud^
+timeWeb.com^
+timeweb.net^
 TLS-Ech.dev^
 TorProject.org^
 TrustLook.com^
