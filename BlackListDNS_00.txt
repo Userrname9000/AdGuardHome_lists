@@ -80,6 +80,7 @@
 ||*.zapravki.yandex.com^$important
 ||*.zapravki.yandex.net^$important
 ||*.zapravki.yandex.ru^$important
+||*.yandexplus.userecho.com^$important
 ||AdFox.Yandex.com^$important
 ||AdFox.Yandex.net^$important
 ||AdFox.Yandex.ru^$important
@@ -87,6 +88,7 @@
 ||ads.Yandex.net^$important
 ||ads.Yandex.ru^$important
 ||api.plus.yandex.net^$important
+||yandexplus.userecho.com^$important
 ||Alice.*^$important
 ||Alice.Yandex.az^$important
 ||Alice.Yandex.com^$important
