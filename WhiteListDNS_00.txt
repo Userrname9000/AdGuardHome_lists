@@ -218,6 +218,7 @@ dnsCheck.Tools^
 DNSchecker.org^
 dnsCrypt.info^
 dnsCrypt.org^
+DNSinspect.com^
 DNShistory.org^
 dnsLeakTest.com^
 dnsLeakTest.net^
