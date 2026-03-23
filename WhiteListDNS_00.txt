@@ -1220,6 +1220,7 @@ cdn.proxy-Liberty.ru^
 cdn.proxyLiberty.ru^
 Hide.mn^
 HideMy.Name^
+hide-my-name.app^
 Liberty-vpn.ru^
 LibertyVPN.app^
 Mullvad.net^
