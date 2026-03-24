@@ -206,8 +206,8 @@ DDoS-Guard.net^
 DDoS-Guard.ru^
 Defo.ie^
 DeviceInfo.me^
-DigiCert.com^
 DigiCert.com.akaHost.net^
+DigiCert.com^
 Digital-CDN.net^
 Discord.com^
 Disqus.com^
@@ -220,8 +220,8 @@ dnsCheck.Tools^
 DNSchecker.org^
 dnsCrypt.info^
 dnsCrypt.org^
-DNSinspect.com^
 DNShistory.org^
+DNSinspect.com^
 dnsLeakTest.com^
 dnsLeakTest.net^
 dnsLeakTest.org^
@@ -371,6 +371,7 @@ JoeSandbox.com^
 jQuery.com^
 js.Qualified.com^
 js.Stripe.com^
+JSdelivr.net^
 Kali.org^
 Kaspersky.com^
 Kaspersky.ru^
@@ -398,6 +399,7 @@ Liu.se^
 LiveConfig.com^
 LocalCDN.org^
 Lokalise.com^
+Lolz.live^
 LookIP.net^
 LowendStock.com^
 LuaDNS.com^
@@ -446,6 +448,7 @@ NOC.org^
 NotePad-plus-plus.org^
 Notion.site^
 NotionUserContent.com^
+NSD.ru^
 nsLookup.io^
 NSPK.ru^
 ntp.FiORD.ru^
@@ -536,8 +539,6 @@ Selectel.ru^
 ServerFault.com^
 Shields.io^
 Shodan.io^
-Lolz.live^
-NSD.ru^
 ShoreBird.dev^
 SimilarWeb.com^
 SimpleScraper.io^
@@ -568,9 +569,9 @@ SSLmate.com^
 sStatic.net^
 StackExchange.com^
 StackOverflow.com^
+StandOff365.com^
 Star-History.com^
 Startpage.com^
-StandOff365.com^
 StickerCommunity.com^
 store.RG-AdGuard.net^
 StormWall.pro^
@@ -628,8 +629,8 @@ Vimeo.com^
 VimeoCDN.com^
 VipCoin.cc^
 VirusTotal.com^
-Vytal.io^
 VK-cdnvideo.com^
+Vytal.io^
 w3.org^
 Wander.Science^
 WappAlyzer.com^
@@ -654,7 +655,6 @@ Xakep.ru^
 XakerForum.com^
 Yadda.dev^
 YarnPKG.com^
-JSdelivr.net^
 ZDAssets.com^
 ZenCDN.net^
 ZenDesk.com^
