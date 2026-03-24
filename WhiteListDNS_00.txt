@@ -126,6 +126,7 @@ Bubble.io^
 Bunny.net^
 CanBeUseful.com^
 CatCert.net^
+CBR.ru^
 CD77.eu^
 cdn-file.HyperOS.mi.com^
 cdn.AccelQ.com^
@@ -1719,6 +1720,7 @@ p.Ozon.ru^
 sentry.Ozon.ru^
 st.Ozon.ru^
 ws.finance.Ozon.ru^
+www.Ozon.ru^
 ##############################
 ##########💻Habr:#############
 ##############################
