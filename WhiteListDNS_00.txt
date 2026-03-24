@@ -1245,7 +1245,11 @@ proxyLiberty.com^
 proxyLiberty.ru^
 pVPN.org^
 pVPN.pw^
+SoftEther.com^
 SoftEther.org^
+SoftEther.net^
+SoftEther.jp^
+SoftEther-download.com^
 SurfSharkDNS.com^
 TrustTunnel.org^
 v4freedom.com^
