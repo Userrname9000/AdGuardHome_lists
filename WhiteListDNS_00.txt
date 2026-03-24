@@ -206,6 +206,7 @@ DDoS-Guard.ru^
 Defo.ie^
 DeviceInfo.me^
 DigiCert.com^
+DigiCert.com.akaHost.net^
 Digital-CDN.net^
 Discord.com^
 Disqus.com^
@@ -534,6 +535,8 @@ Selectel.ru^
 ServerFault.com^
 Shields.io^
 Shodan.io^
+Lolz.live^
+NSD.ru^
 ShoreBird.dev^
 SimilarWeb.com^
 SimpleScraper.io^
@@ -662,7 +665,7 @@ ZeroSSL.com^
 ZoneOfGames.ru^
 zScaler.com^
 ##############################
-##########🗺️GPS:🧭###########
+##########🗺️GPS:🧭############
 ##############################
 BroadCom.com^
 CoMaps.app^
@@ -739,7 +742,7 @@ Temp.pm^
 Turbo.my^
 XxFot.com^
 ##############################
-########🦊Mozilla🔥##########
+#########🦊Mozilla🔥##########
 ##############################
 DetectPortal.Firefox.com^
 addons.Mozilla.org^
@@ -772,7 +775,7 @@ Wiki.Mozilla.org^
 MozAWS.net^
 MozGCP.net^
 ##############################
-#######📷Pint+Insta🖼️:#######
+########📷Pint+Insta🖼️:#######
 ##############################
 api.Facebook.com^
 api.instagram.com^
@@ -803,6 +806,7 @@ instagr.am^
 instagram-portal.fb.com^
 instagram.com^
 PinTerest.net^
+assets.Pinterest.com^
 rupload.Facebook.com^
 rupload.instagram.com^
 scontent.CDNinstagram.com^
@@ -813,8 +817,10 @@ www.Facebook.com^
 www.instagram.com^
 z-p42-chat-e2ee-ig-fallback.Facebook.com^
 ##############################
-#########🍎Apple⬜:##########
+#########🍎Apple⬜:###########
 ##############################
+aidc.apple.com^
+itunes.com^
 aaplimg.com^
 AlBert.Apple.com^
 Apple-DNS.net^
@@ -903,28 +909,30 @@ www.Apple.com^
 xp.Apple.com^
 afs.AmpaEServices.com^
 ##############################
-########🎨Art-Tools:🛠️#######
+#########🎨Art-Tools:🛠️#######
 ##############################
+Adobe.io^
+AdobeCCstatic.com^
+AdobeLogin.com^
 Beehiiv.com^
 Canva.com^
 FreePik.com^
-iBisPaint.com^
-iMgix.net^
 OptiFyr.com^
-Pling.com
+Pling.com^
 RawPixel.com^
 TextStudio.com^
-use.TypeKit.net^
 VlogNow.me^
-Adobe.io^
 cc-api-cp.Adobe.io^
 cdn.cp.Adobe.io^
-AdobeCCstatic.com^
-AdobeLogin.com^
 client.Messaging.Adobe.com^
+csdkApi-policy.Adobe.com^
+iBisPaint.com^
+iMgix.net^
+pps.services.Adobe.com^
+use.TypeKit.net^
 www.Adobe.com^
 ##############################
-##📧🟦Google + YouTube🟥🎥##
+####📧🟦Google + YouTube🟥🎥###
 ##############################
 Android.com^
 about.Google^
@@ -1010,7 +1018,7 @@ YT.be^
 YT3.GoogleUserContent.com^
 YTimg.com^
 ##############################
-#######📎Microsoft📁:########
+########📎Microsoft📁:########
 ##############################
 Activity.Windows.com^
 AixDownloader.com^
@@ -1282,7 +1290,7 @@ uniongang.net^
 router.bittorrent.com^
 bt2.t-ru.org^
 ##############################
-#######🖥️Comss.one📝:########
+########🖥️Comss.one📝:########
 ##############################
 Comss.one^
 check.Comss.one^
@@ -1291,7 +1299,7 @@ Comss.online^
 dns.Comss.one^
 router.Comss.one^
 ##############################
-#######🖥️🕹️Steam🎮📺:#######
+#########🖥️🕹️Steam🎮📺:########
 ##############################
 ndp.nGNi.us^
 api.SteamPowered.com^
@@ -1316,7 +1324,7 @@ SteamStat.us^
 SteamUserContent.com^
 TzatZikiWeeb.moe^
 ##############################
-######☁️Huawei + Honor📱:####
+######☁️Huawei + Honor📱:#####
 ##############################
 api.RevenueCat.com^
 cdn.DNSv1.com^
@@ -1345,7 +1353,7 @@ MyHuaweiCloud.ru^
 MyQcloud.com^
 ZuiMeitianQi.com^
 ##############################
-########🏹Bethesda:🎮########
+########🏹Bethesda:🎮#########
 ##############################
 agent.QuakeApi.com^
 api.Bethesda.com^
@@ -1363,7 +1371,7 @@ Saber.Games^
 Vault-tec.systems^
 ZeniMaxOnline.com^
 ##############################
-#######☁️Cloudflare🟧:#######
+########☁️Cloudflare🟧:#######
 ##############################
 ArgoTunnel.com^
 Cloudflare.dev^
@@ -1514,7 +1522,7 @@ YCcdn.net^
 YCcdn.ru^
 video.cloud.Yandex.net^
 ##############################
-#########🥷AdGuard:🛡️########
+##########🥷AdGuard:🛡️########
 ##############################
 AdGuard-dns.com^
 AdGuard-dns.io^
@@ -1550,7 +1558,7 @@ qoqxc26g.pcyaur0tg2clo0w4.lol^
 b1npvi6x.pcyaur0tg2clo0w4.lol^
 uupms3kj.edgp6a9h67d6avho.pics^
 ##############################
-#########✈️Telegram✉️:#######
+###########✈️Telegram✉️:#######
 ##############################
 t.me^
 tg.dev^
@@ -1580,13 +1588,13 @@ Modular.im^
 Riot.im^
 Vector.im^
 ##############################
-#########🏦Banki.ru💵:#######
+##########🏦Banki.ru💵:#######
 ##############################
 api.Banki.ru^
 cdn.Banki.ru^
 www.Banki.ru^
 ##############################
-##########⬛T2📱:############
+###########⬛T2📱:############
 ##############################
 api.T2.ru^
 Msk.T2.ru^
@@ -1594,7 +1602,7 @@ Tula.T2.ru^
 oplata.T2.ru^
 public.oplata.T2.ru^
 ##############################
-##########❌5KA🛒:###########
+###########❌5KA🛒:###########
 ##############################
 api.X5.ru^
 dostavka.5ka.ru^
@@ -1603,7 +1611,7 @@ X5club.ru^
 X5m.X5.ru^
 X5static.net^
 ##############################
-##########🟦ВК⬜:############
+###########🟦ВК⬜:############
 ##############################
 Api.VK.com^
 Api.VK.ru^
@@ -1615,7 +1623,7 @@ Quic-api.VK.com^
 Quic-api.VK.ru^
 VK.com^
 ##############################
-#######🖥️ГосУслуги🟥:########
+########🖥️ГосУслуги🟥:########
 ##############################
 GosKey.ru^
 Gosuslugi.ru^
@@ -1625,7 +1633,7 @@ Nalog.ru^
 es.Pfrf.ru^
 Sfr.gov.ru^
 ##############################
-#########🏦ВТБ💶:############
+##########🏦ВТБ💶:############
 ##############################
 async-online.VTB.ru^
 async-online3.VTB.ru^
@@ -1650,7 +1658,7 @@ sso-app5.VTB.ru^
 VTBmobile.ru^
 www.VTB.ru^
 ##############################
-########🏦🥚МТС🟥📱:########
+##########🏦🥚МТС🟥📱:#########
 ##############################
 api.a.MTS.ru^
 api.mt.MTS.ru^
@@ -1689,16 +1697,28 @@ static.MTSdengi.ru^
 Store.cloud.MTS.ru^
 ve-public-prod.MTS.ru^
 ##############################
-#########🛍️Ozon🖥️:###########
+##########🛍️Ozon🖥️:###########
 ##############################
+api.Ozon.ru^
 api.finance.Ozon.ru^
 cdn1.Ozon.ru^
+edge-lb-g.Ozon.ru^
+edge-lb-g0.Ozon.ru^
+edge-lb-g1.Ozon.ru^
+edge-lb-g2.Ozon.ru^
+edge-lb-g3.Ozon.ru^
+edge-lb-g4.Ozon.ru^
+edge-lb-g5.Ozon.ru^
 edge-mmedia-lb.Ozon.ru^
 io-bank.Ozon.ru^
+io.Ozon.ru^
+ir.Ozon.ru^
+ord.Ozon.ru^
 OzonUserContent.com^
-p.ozon.ru^
+p.Ozon.ru^
+sentry.Ozon.ru^
 st.Ozon.ru^
-ws.finance.ozon.ru^
+ws.finance.Ozon.ru^
 ##############################
 ##########💻Habr:#############
 ##############################
