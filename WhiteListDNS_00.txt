@@ -929,6 +929,8 @@ client.Messaging.Adobe.com^
 csdkApi-policy.Adobe.com^
 iBisPaint.com^
 iMgix.net^
+Krita.org^
+Krita-artists.org^
 pps.services.Adobe.com^
 use.TypeKit.net^
 www.Adobe.com^
