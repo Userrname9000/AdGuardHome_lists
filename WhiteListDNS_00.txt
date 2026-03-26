@@ -14,7 +14,7 @@ arpa^
 2ipCore.com^
 2ipX.com^
 31337.lol^
-Localhost^
+localhost^
 Explosive.Homes^
 iPFS.DWeb.Link^
 ipFS.io^
@@ -27,15 +27,16 @@ v.31337.lol^
 v.Recipes^
 ##############################
 example.com^
+example.net^
 example.org^
-in-addr.arpa^$important
+ipPacket.stream^
 null-addr.com^
 null-addr.net^
 null-addr.org^
+in-addr.arpa^$important
 _dns-sd._udp.*.in-addr.arpa^$important
 _dns-sd._tcp.*.in-addr.arpa^$important
 lb._dns-sd._udp.homeworld264^$important
-ipPacket.stream^
 ##############################
 #########🛜ASUSTeK:############
 ASUS-aiCam.com^
@@ -296,6 +297,7 @@ GamingOnLinux.com^
 GeeksforGeeks.org^
 GeForce.com^
 GetIntra.org^
+GFN.am^
 gHacks.net^
 Ghostery.com^
 Ghostery.net^
@@ -385,6 +387,7 @@ js.Qualified.com^
 js.Stripe.com^
 JSdelivr.net^
 Kali.org^
+Kali.download^
 Kaspersky.com^
 Kaspersky.ru^
 KayakoCDN.com^
@@ -427,12 +430,6 @@ miCloud.mi.com^
 MikroTik.com^
 MirConnect.ru^
 MirOnline.ru^
-mirrors.BFSU.edu.cn^
-mirrors.CerNet.edu.cn^
-mirrors.Cqupt.edu.cn^
-mirrors.HUST.edu.cn
-mirrors.NJU.edu.cn^
-mirrors.USTC.edu.cn^
 Misaka.one^
 miui.com^
 miWiFi.com^
@@ -549,7 +546,6 @@ SaveVideo4me.com^
 ScamAdviser.com^
 ScanCircle.com^
 ScriBD.com^
-searchApp.BundleAssets.example^
 Sectigo.com^
 SecuritVision.ru^
 SecurityHeaders.com^
@@ -624,6 +620,7 @@ TorProject.org^
 TrustLook.com^
 TrustPilot.com^
 TryHackMe.com^
+Tsukuba.ac.jp^
 u1Host.com^
 UBi.com^
 UBisoft.com^
