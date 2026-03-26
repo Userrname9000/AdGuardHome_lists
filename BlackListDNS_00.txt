@@ -1,5 +1,5 @@
 ###################################
-#####⛔OverheadBlocking:🚨🚧#####
+######⛔OverheadBlocking:🚨🚧######
 ||Export-Base.ru^$important
 ||Geekko.co^$important
 ||Gekkk.com^$important
@@ -269,3 +269,4 @@
 ||*.max.ru^$important
 ||max.ru^$important
 ||*.mindbox.ru^$important
+||ir.ozone.ru^
