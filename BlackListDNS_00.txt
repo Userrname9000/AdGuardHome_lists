@@ -270,3 +270,6 @@
 ||max.ru^$important
 ||*.mindbox.ru^$important
 ||ir.ozone.ru^
+||thumbmarkjs.com^
+
+
