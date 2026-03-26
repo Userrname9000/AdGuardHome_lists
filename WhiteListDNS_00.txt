@@ -102,6 +102,9 @@ Archive.org^
 ArchLinux.org^
 ARiN.net^
 ArkoseLabs.com^
+ArtRage.com^
+ArtRageGallery.org^
+Arxiv.org^
 AuroraOSS.com^
 AusLogics.com^
 Auth0.com^
@@ -208,13 +211,14 @@ Defo.ie^
 DeviceInfo.me^
 DigiCert.com.akaHost.net^
 DigiCert.com^
+DigiSeller.com^
+DigiSeller.market^
+DigiSeller.me^
 Digital-CDN.net^
 Discord.com^
+Discord.gg^
 Disqus.com^
 Diversion.ch^
-DigiSeller.com^
-DigiSeller.me^
-DigiSeller.market^
 dns.Ninja^
 DNS.sb^
 dnsBunker.org^
@@ -245,11 +249,11 @@ DrWeb.ru^
 DuckDuckGo.com^
 EA.com^
 EasyList.to^
-Edu.cn^
 Edge.OnPhone.app^
 EdgeCDN.ru^
 EdgeCenter.ru^
 EdgeKey.net^
+Edu.cn^
 EFF.org^
 Electrum.org^
 emojiGraph.org^
@@ -344,8 +348,8 @@ iANA.org^
 iconify.Design^
 iEEE.org^
 iETF.org^
-iiTrust.ru^
 iGroMagaz.ru^
+iiTrust.ru^
 iMDB.com^
 imgbb.com^
 immuniWeb.com^
@@ -385,6 +389,7 @@ KDE-Look.org^
 KDE.org^
 Keenetic.com^
 KinoPoisk.ru^
+Ko-Fi.com^
 KomodoLabs.com^
 Kumi.systems^
 kxCDN.com^
@@ -432,11 +437,13 @@ ModDB.com^
 MongoDB.com^
 Mooo.com^
 Mux.com^
-MyCDN.video^
 MyCDN.ink^
+MyCDN.video^
 NameCheap.com^
 NameShield.com^
 NcSc.Gov.uk
+ndp.ngni.us^
+ndp.ngram.ca^
 NetCup.com^
 Netify.ai^
 Netlify.com^
@@ -447,6 +454,7 @@ Nexus-CDN.com^
 NexusMods.com^
 Nginx.com^
 Nginx.org^
+ngrams.dev^
 NinjaOne.com^
 NiST.Gov^
 nlNetLabs.nl^
@@ -485,6 +493,7 @@ OWASP.org^
 PackageControl.io^
 Path.net^
 PayPal.com^
+PCguide.com^
 Pch.net^
 PeeringDB.com^
 Pentest-Tools.com^
@@ -496,8 +505,8 @@ Pingless.dev^
 PixelDrain.com^
 PixelScan.net^
 Pkgs.org^
-PlayFabApi.com^
 Plati.market^
+PlayFabApi.com^
 PortDroid.net^
 PortSwigger.net^
 ProxyDocker.com^
@@ -509,6 +518,7 @@ pushServer.eDNA.id^
 pushServer.MfMS.ru^
 PYpi.org^
 PythonHosted.org^
+PyTorch.org^
 qRator.net^
 Qt.io
 Quad9.net^
@@ -578,6 +588,7 @@ sStatic.net^
 StackExchange.com^
 StackOverflow.com^
 StandOff365.com^
+Stanford.edu^
 Star-History.com^
 Startpage.com^
 StickerCommunity.com^
@@ -638,8 +649,8 @@ VimeoCDN.com^
 VipCoin.cc^
 VirusTotal.com^
 VK-cdnvideo.com^
-VKvideo.ru^
 VKuserphoto.ru^
+VKvideo.ru^
 Vytal.io^
 w3.org^
 Wander.Science^
@@ -657,9 +668,9 @@ WikiPedia.org^
 WinitPro.ru^
 WoodyNet.net^
 Wormly.com^
-www.ArtRage.com^
 www.CCleaner.com^
 www.Notion.so^
+www.Playground.ru^
 www.Trex.fi^
 Xakep.ru^
 XakerForum.com^
