@@ -1525,6 +1525,7 @@ tc.mobile.Yandex.ru^
 Time.Yandex.com^
 Time.Yandex.net^
 Time.Yandex.ru^
+upics.Yandex.net^
 Yandex.Cloud^
 YandexCloud.com^
 YandexCloud.net^
