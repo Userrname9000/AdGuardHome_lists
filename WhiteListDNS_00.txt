@@ -1344,6 +1344,7 @@ api.RevenueCat.com^
 cdn.DNSv1.com^
 cdnHWC1.com^
 dBankCDN.ru^
+dBankCDN.com^
 dBankCloud.asia^
 dBankCloud.cn^
 dBankCloud.com^
