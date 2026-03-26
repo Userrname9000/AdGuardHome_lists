@@ -269,7 +269,7 @@
 ||*.max.ru^$important
 ||max.ru^$important
 ||*.mindbox.ru^$important
-||ir.ozone.ru^
+||ir.ozon.ru^
 ||thumbmarkjs.com^
 ||luxupnetwork.com^
 
