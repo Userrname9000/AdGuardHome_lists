@@ -442,8 +442,6 @@ MyCDN.video^
 NameCheap.com^
 NameShield.com^
 NcSc.Gov.uk
-ndp.ngni.us^
-ndp.ngram.ca^
 NetCup.com^
 Netify.ai^
 Netlify.com^
@@ -1330,11 +1328,12 @@ router.Comss.one^
 #########🖥️🕹️Steam🎮📺:########
 ##############################
 ndp.nGNi.us^
+ndp.ngram.ca^
 api.SteamPowered.com^
 DeckBrew.xyz^
 Decky.net^
 FlatPak.Elementary.io^
-ingesteer.Services-prod.nsvcs.net^
+Services-prod.nsvcs.net^
 ProtonDB.com^
 Steam-Chat.com^
 SteamCDN-a.AkamaiHD.net^
