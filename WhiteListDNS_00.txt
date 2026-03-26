@@ -245,6 +245,7 @@ DrWeb.ru^
 DuckDuckGo.com^
 EA.com^
 EasyList.to^
+Edu.cn^
 Edge.OnPhone.app^
 EdgeCDN.ru^
 EdgeCenter.ru^
@@ -432,6 +433,7 @@ MongoDB.com^
 Mooo.com^
 Mux.com^
 MyCDN.video^
+MyCDN.ink^
 NameCheap.com^
 NameShield.com^
 NcSc.Gov.uk
