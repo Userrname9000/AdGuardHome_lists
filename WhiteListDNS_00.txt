@@ -214,6 +214,7 @@ Disqus.com^
 Diversion.ch^
 DigiSeller.com^
 DigiSeller.me^
+DigiSeller.market^
 dns.Ninja^
 DNS.sb^
 dnsBunker.org^
@@ -1440,6 +1441,7 @@ www.Cloudflare.com^
 ##############################
 #########🟥Yandex🔍:##########
 ##############################
+YA.ru^
 api-Maps.Yandex.com^
 api-Maps.Yandex.net^
 api-Maps.Yandex.ru^
