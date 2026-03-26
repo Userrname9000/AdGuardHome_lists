@@ -213,6 +213,7 @@ Discord.com^
 Disqus.com^
 Diversion.ch^
 DigiSeller.com^
+DigiSeller.me^
 dns.Ninja^
 DNS.sb^
 dnsBunker.org^
