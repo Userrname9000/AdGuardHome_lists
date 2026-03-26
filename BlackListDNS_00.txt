@@ -9,9 +9,6 @@
 ||L1-1.anzu.io.homeworld264^$important
 ||Disabled.invalid^$important
 ||Disabled.invalid.Homeworld264^$important
-||_dns-sd._udp.*.in-addr.arpa^$important
-||_dns-sd._tcp.*.in-addr.arpa^$important
-||lb._dns-sd._udp.homeworld264^$important
 ||Tracing.obs.MTS.ru^$important
 ||MTSopros.MTS.ru^$important
 ##################################
