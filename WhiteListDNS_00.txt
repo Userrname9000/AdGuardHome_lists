@@ -1551,6 +1551,11 @@ YCcdn.com^
 YCcdn.net^
 YCcdn.ru^
 video.cloud.Yandex.net^
+Unsubscribe.Yandex.ru^
+Unsubscribe.Yandex.com^
+Unsubscribe.Yandex.net^
+Unsubscribe.Yandex.kz^
+Unsubscribe.Yandex.fi^
 ##############################
 ##########🥷AdGuard:🛡️########
 ##############################
