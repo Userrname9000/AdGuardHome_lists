@@ -28,10 +28,13 @@ v.Recipes^
 ##############################
 example.com^
 example.org^
-in-addr.arpa^
+in-addr.arpa^$important
 null-addr.com^
 null-addr.net^
 null-addr.org^
+_dns-sd._udp.*.in-addr.arpa^$important
+_dns-sd._tcp.*.in-addr.arpa^$important
+lb._dns-sd._udp.homeworld264^$important
 ipPacket.stream^
 ##############################
 #########🛜ASUSTeK:############
