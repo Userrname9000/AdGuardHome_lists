@@ -60,6 +60,12 @@
 ||*.ads.Yandex.com^$important
 ||*.ads.Yandex.net^$important
 ||*.ads.Yandex.ru^$important
+||*.tanker.Yandex.com^$important
+||*.tanker.Yandex.net^$important
+||*.tanker.Yandex.ru^$important
+||tanker.Yandex.com^$important
+||tanker.Yandex.net^$important
+||tanker.Yandex.ru^$important
 ||appmetrica.Yandex.com^$important
 ||appmetrica.Yandex.net^$important
 ||appmetrica.Yandex.ru^$important
