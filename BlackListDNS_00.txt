@@ -325,3 +325,7 @@
 ||RosTelecom.ru^$important
 ||Company.RT.ru^$important
 ||punkorama.ru^$important
+||telega.me^$important
+||telega.info^$important
+||graphmessenger.com^$important
+||imem.app^$important
