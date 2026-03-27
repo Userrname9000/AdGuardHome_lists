@@ -540,6 +540,7 @@ RiPE.net^
 RKN.i2p^
 RobotAttack.org^
 Robtex.com^
+RoboKassa.com^
 RTcdn.dev^
 RuTor-24.at^
 RuTor.or.at^
