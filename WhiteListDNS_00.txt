@@ -649,6 +649,7 @@ VipCoin.cc^
 VirusTotal.com^
 Vytal.io^
 w3.org^
+Wacom.co^
 Wander.Science^
 WappAlyzer.com^
 web.AlfaBank.ru^
