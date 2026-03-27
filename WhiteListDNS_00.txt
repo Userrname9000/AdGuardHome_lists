@@ -800,6 +800,7 @@ api.Facebook.com^
 api.instagram.com^
 api.pinterest.com^
 c10r.Facebook.com^
+CDN.FBsbx.com^
 CDNinstagram.com^
 connect.Facebook.net^
 Edge-MQtt-fallback.Facebook.com^
