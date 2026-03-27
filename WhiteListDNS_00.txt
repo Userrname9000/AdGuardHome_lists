@@ -95,6 +95,7 @@ AlternativeTo.net^
 AltStore.io^
 AmiUnique.org^
 AmpProject.org^
+Any.run^
 Anexia.com^
 Anti-Hacker-Alliance.com^
 Anti-Malware.ru^
