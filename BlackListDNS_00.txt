@@ -73,6 +73,11 @@
 ||*.clck.Yandex.net^$important
 ||*.clck.Yandex.ru^$important
 ||*.Dialogs.Yandex.net^$important
+||*.download-Paranja.Yandex.com^$important
+||*.download-Paranja.Yandex.fi^$important
+||*.download-Paranja.Yandex.ru^$important
+||*.download-Paranja.Yandex.net^$important
+||*.download-Paranja.Yandex.kz^$important
 ||*.Lavka.Yandex.net^$important
 ||*.Lavka.Yandex.ru^$important
 ||*.mc.WebVisor.net^$important
