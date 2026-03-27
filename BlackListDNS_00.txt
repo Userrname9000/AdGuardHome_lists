@@ -324,3 +324,4 @@
 ||luxupnetwork.com^
 ||RosTelecom.ru^$important
 ||Company.RT.ru^$important
+||punkorama.ru^$important
