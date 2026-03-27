@@ -1531,9 +1531,8 @@ rasp.Yandex-net.ru^
 passport.Yandex.com^
 passport.Yandex.net^
 passport.Yandex.ru^
-S3.Yandex.com^
-S3.Yandex.net^
-S3.Yandex.ru^
+resize.Yandex.ru^
+resize.Yandex.net^
 SuperSender.Yandex.net^
 svc.CDN.Yandex.com^
 svc.CDN.Yandex.net^
