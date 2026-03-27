@@ -294,3 +294,5 @@
 ||ir.ozon.ru^$important
 ||thumbmarkjs.com^
 ||luxupnetwork.com^
+||RosTelecom.ru^$important
+||Company.RT.ru^$important
