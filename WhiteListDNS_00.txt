@@ -1248,6 +1248,7 @@ CTReserve.de^
 cdn.proxy-Liberty.com^
 cdn.proxy-Liberty.ru^
 cdn.proxyLiberty.ru^
+HAPP.su^
 Hide.mn^
 HideMy.Name^
 hide-my-name.app^
