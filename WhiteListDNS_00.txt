@@ -1474,6 +1474,11 @@ AuthProxy.prod.YB.Yandex.com^
 AuthProxy.prod.YB.Yandex.net^
 AuthProxy.prod.YB.Yandex.ru^
 Avatars.mds.Yandex.net^
+BrowserWeb.s3.Yandex.com^$important
+BrowserWeb.s3.Yandex.fi^$important
+BrowserWeb.s3.Yandex.net^$important
+BrowserWeb.s3.Yandex.ru^$important
+BrowserWeb.s3.Yandex.kz^$important
 captcha-api.Yandex.com^
 captcha-api.Yandex.net^
 captcha-api.Yandex.ru^
