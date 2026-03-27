@@ -1564,6 +1564,7 @@ Unsubscribe.Yandex.fi^
 ##############################
 ##########🥷AdGuard:🛡️########
 ##############################
+AgdDSN.de^
 AdGuard-dns.com^
 AdGuard-dns.io^
 AdGuard-mail.com^
