@@ -319,7 +319,8 @@
 ||*.max.ru^$important
 ||max.ru^$important
 ||*.mindbox.ru^$important
-||ir.ozon.ru^$important
+||ir.ozone.com^$important
+||ir.ozone.ru^$important
 ||thumbmarkjs.com^
 ||luxupnetwork.com^
 ||RosTelecom.ru^$important
