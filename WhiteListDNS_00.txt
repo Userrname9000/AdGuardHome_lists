@@ -85,6 +85,7 @@ Addr.Tools^
 Adonit-SDK.net^
 ADSpower-ru.com^
 ADSpower.com^
+Aeza.net^
 AFRiNiC.net^
 AgDsn.de^
 Aimp.ru^
@@ -1354,6 +1355,7 @@ SteamStatic.com^
 SteamStat.us^
 SteamUserContent.com^
 TzatZikiWeeb.moe^
+SteamStatus.schelstraete.org^
 ##############################
 ######☁️Huawei + Honor📱:#####
 ##############################
