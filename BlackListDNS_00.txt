@@ -329,3 +329,4 @@
 ||telega.info^$important
 ||graphmessenger.com^$important
 ||imem.app^$important
+||matomo.org^$important
