@@ -672,13 +672,13 @@ WhoIs.com^
 WikiMedia-DNS.org^
 WikiMedia.org^
 WikiPedia.org^
+WikiData.org^
 WinitPro.ru^
 WoodyNet.net^
 Wormly.com^
 www.CCleaner.com^
 www.Notion.so^
-www.Playground.ru^
-www.Trex.fi^
+Playground.ru^
 Xakep.ru^
 XakerForum.com^
 Yadda.dev^
@@ -1799,7 +1799,7 @@ Habr.com^
 HabraHabr.ru^
 HabraStorage.org^
 ##############################
-##########🌐Ozon💸:###########
+#######🌐WebMoney💸:#########
 ##############################
 Enum.ru^
 Web.Money^
