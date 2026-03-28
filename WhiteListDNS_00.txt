@@ -1042,6 +1042,8 @@ time.Google.com^
 translate.Google.com^
 wide-YouTube.L.Google.com^
 www.Google.com^
+www.Google.ee^
+www.Google.se^
 www.Google.lv^
 www.Google.ru^
 www.Gstatic.com^
@@ -1121,6 +1123,7 @@ loki.delve.Office.com
 Licensing.mp.Microsoft.com^
 m.Hotmail.com^
 management.Azure.com^
+manage.Microsoft.com^
 MicrosoftApp.net^
 ms-acdc.Office.com^
 msAuth.net^
@@ -1133,6 +1136,7 @@ msftNcsi.com^
 msftStatic.com^
 msIdentity.com^
 mobileAppCommunicator.Auth.Microsoft.com^
+mos.Microsoft.com^
 my.MicrosoftPersonalContent.com^
 neLReports.net^
 netmon.Azure.com^
