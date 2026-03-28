@@ -1800,9 +1800,11 @@ HabraStorage.org^
 ##############################
 ##########🌐Ozon💸:###########
 ##############################
+Enum.ru^
 Web.Money^
 WebMoney.com^
 WebMoney.ru^
+WebMoney.wiki^
 WMtransfer.com^
 bookmnt.online^
 ExChanger.market^
