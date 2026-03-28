@@ -287,6 +287,7 @@ FireWall-GateWay.de^
 FirstSSL.ru^
 FKwallet.io^
 FlagFox.net^
+FlagCDN.com^
 FlatHub.org^
 FlowPlayer.com^
 FluffLeinfra.net^
@@ -479,6 +480,7 @@ OneGet.org^
 OneTag-sys.com^
 OneTrust.com^
 OoklaServer.net^
+Opencck.org^
 OpenDNS.com^
 OpenNet.ru^
 OpenNIC.org^
@@ -598,6 +600,7 @@ Stripe.com^
 Stripe.Network^
 StrongPath.net^
 StunProtocol.org^
+SkyPack.dev^
 SubdomainFinder.c99.nl^
 SubdomainFinder.in^
 SubDomainRadar.io^
@@ -752,6 +755,7 @@ FreeImage.host^
 Gekkk.co^
 Getimg.top^
 Ghost.Limited^
+Ghost.sb^
 Mega.co.nz^
 Mega.nz^
 nBox.me^
@@ -1282,6 +1286,9 @@ v4freedom.com^
 Whoer.net^
 Whox.is^
 WireSock.net^
+Warp-generator.workers.dev^
+Warp-generation.vercel.app^
+Warp-generator.github.io^
 ##############################
 #######🏴‍☠️Torrents🗃️:#########
 ##############################
