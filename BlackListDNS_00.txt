@@ -331,3 +331,4 @@
 ||graphmessenger.com^$important
 ||imem.app^$important
 ||matomo.org^$important
+||napartner.ru^$important
