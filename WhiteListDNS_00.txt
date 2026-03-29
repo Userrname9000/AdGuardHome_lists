@@ -417,6 +417,7 @@ Level66.network^
 Lib-OS.ru^
 Linux.org.ru^
 LiteSpeedTech.com^
+Lite.Host^
 Liu.se^
 LiveConfig.com^
 LocalCDN.org^
@@ -837,6 +838,7 @@ instagr.am^
 instagram-portal.fb.com^
 instagram.com^
 PinTerest.net^
+v1.Pinimg.com^
 assets.Pinterest.com^
 rupload.Facebook.com^
 rupload.instagram.com^
