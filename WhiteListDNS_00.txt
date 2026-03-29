@@ -699,6 +699,9 @@ ZeroSSL.com^
 ZoneOfGames.ru^
 zScaler.com^
 xBox-DNS.ru^
+id.Dom.ru^
+cdn-b2c.Dom.ru^
+tula.Dom.ru^
 ##############################
 ##########🗺️GPS:🧭############
 ##############################
@@ -1517,6 +1520,9 @@ calendar.Yandex.ru^
 click.sender.Yandex.com^
 click.sender.Yandex.net^
 click.sender.Yandex.ru^
+Cloud.Yandex.com^
+Cloud.Yandex.ru^
+Cloud.Yandex.net^
 Cloud-api.Yandex.com^
 Cloud-api.Yandex.net^
 Cloud-api.Yandex.ru^
@@ -1622,6 +1628,7 @@ Agrd.io^
 Agrd.net^
 Agrd.org^
 Agrd.ru^
+Agrd-tm.com^
 Mask.me^
 mobile-api.AdGuard.org^
 pcyaur0tg2clo0w4.lol^
