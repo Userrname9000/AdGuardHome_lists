@@ -82,7 +82,9 @@
 ||*.clck.Yandex.com^$important
 ||*.clck.Yandex.net^$important
 ||*.clck.Yandex.ru^$important
+||*.Dialogs.Yandex.com^$important
 ||*.Dialogs.Yandex.net^$important
+||*.Dialogs.Yandex.ru^$important
 ||*.download-Paranja.Yandex.com^$important
 ||*.download-Paranja.Yandex.fi^$important
 ||*.download-Paranja.Yandex.kz^$important
@@ -121,6 +123,9 @@
 ||*.tanker.Yandex.net^$important
 ||*.tanker.Yandex.ru^$important
 ||*.Yandexplus.userecho.com^$important
+||*.Yaha-Cloud.com^$important
+||*.Yaha-Cloud.net^$important
+||*.Yaha-Cloud.ru^$important
 ||*.zapravki-static.s3.Yandex.com^$important
 ||*.zapravki-static.s3.Yandex.net^$important
 ||*.zapravki-static.s3.Yandex.ru^$important
@@ -177,7 +182,9 @@
 ||DataLens.com^$important
 ||DataLens.net^$important
 ||DataLens.ru^$important
+||Dialogs.Yandex.com^$important
 ||Dialogs.Yandex.net^$important
+||Dialogs.Yandex.ru^$important
 ||ipv4-internet.Yandex.net^$important
 ||ipv6-internet.Yandex.net^$important
 ||Lavka.Yandex.net^$important
@@ -218,6 +225,9 @@
 ||webmaster.Yandex.net^$important
 ||webmaster.Yandex.ru^$important
 ||YandexPlus.UserEcho.com^$important
+||Yaha-Cloud.com^$important
+||Yaha-Cloud.net^$important
+||Yaha-Cloud.ru^$important
 ||zapravki-static.s3.Yandex.com^$important
 ||zapravki-static.s3.Yandex.net^$important
 ||zapravki-static.s3.Yandex.ru^$important
