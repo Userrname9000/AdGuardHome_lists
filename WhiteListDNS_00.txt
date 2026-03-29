@@ -416,6 +416,7 @@ LetsEncrypt.org^
 Level1Techs.com^
 Level66.network^
 Lib-OS.ru^
+LibreDNS.gr^
 Linux.org.ru^
 LiteSpeedTech.com^
 Lite.Host^
@@ -697,6 +698,7 @@ ZennoStore.com^
 ZeroSSL.com^
 ZoneOfGames.ru^
 zScaler.com^
+xBox-DNS.ru^
 ##############################
 ##########🗺️GPS:🧭############
 ##############################
