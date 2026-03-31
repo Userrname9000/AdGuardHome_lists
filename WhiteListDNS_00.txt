@@ -435,6 +435,7 @@ MartiCliment.com^
 MaxMind.com^
 MemoryCleaner.kilho.net^
 Metasploit.com^
+Megafon.ru^
 Mi-img.com^
 miCloud.mi.com^
 MikroTik.com^
@@ -681,6 +682,7 @@ WikiData.org^
 WinitPro.ru^
 WoodyNet.net^
 Wormly.com^
+www.DNS-Shop.ru^
 www.CCleaner.com^
 www.Notion.so^
 Playground.ru^
@@ -842,11 +844,11 @@ graph.Facebook.com^
 graph.instagram.com^
 i-fallback.instagram.com^
 i.instagram.com^
-i.pinimg.com^
 instagr.am^
 instagram-portal.fb.com^
 instagram.com^
 PinTerest.net^
+i.Pinimg.com^
 v1.Pinimg.com^
 assets.Pinterest.com^
 rupload.Facebook.com^
@@ -977,6 +979,7 @@ Krita.org^
 Krita-artists.org^
 pps.services.Adobe.com^
 use.TypeKit.net^
+Linearity.io^
 www.Adobe.com^
 ##############################
 ####📧🟦Google + YouTube🟥🎥###
@@ -1188,6 +1191,7 @@ store-images.s-Microsoft.com^
 storeedgefd.dsx.mp.Microsoft.com^
 substrate.Office.com^
 support.Microsoft.com^
+svc.ms^
 t-MsEdge.net^
 techcommunity.Microsoft.com^
 th.Bing.com^
@@ -1565,9 +1569,11 @@ mobileproxy.Passport.Yandex.fi^
 rasp.Yandex-net.com^
 rasp.Yandex-net.net^
 rasp.Yandex-net.ru^
+passport.yandex.fi^
 passport.Yandex.com^
 passport.Yandex.net^
 passport.Yandex.ru^
+passport.yandex.kz^
 resize.Yandex.ru^
 resize.Yandex.net^
 SuperSender.Yandex.net^
@@ -1809,7 +1815,8 @@ p.Ozon.ru^
 tracking.Ozon.ru^
 sentry.Ozon.ru^
 st.Ozone.ru^
-vp-1.Ozon.ru^
+vp-1.Ozone.ru^
+vr-1.Ozone.ru^
 vr-1.Ozon.ru^
 ws.finance.Ozon.ru^
 www.Ozon.ru^
