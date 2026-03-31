@@ -1714,6 +1714,7 @@ VK-cdnvideo.com^
 VK.com^
 VKuserphoto.ru^
 VKvideo.ru^
+VK-portal.net^
 oAuth.VK.com^
 oAuth.VK.ru^
 ##############################
