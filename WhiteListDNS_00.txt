@@ -60,7 +60,7 @@ EdgeSuite.net^
 www.Akamai.com^
 cdn.ZiffStatic^
 ##############################
-########💪ЭтоБАЗА🏰:#########
+########💪ЭтоБАЗА🏰:##########
 ##############################
 AWSwaf.com^
 Amazon.com^
@@ -822,7 +822,8 @@ MozGCP.net^
 accounts.Meta.com^
 api.Facebook.com^
 api.instagram.com^
-api.pinterest.com^
+api.Pinterest.com^
+Pinterest.com^
 c10r.Facebook.com^
 CDN.FBsbx.com^
 CDNinstagram.com^
