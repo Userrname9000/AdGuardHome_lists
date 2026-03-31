@@ -979,6 +979,7 @@ cdn.cp.Adobe.io^
 client.Messaging.Adobe.com^
 csdkApi-policy.Adobe.com^
 iBisPaint.com^
+iBis.ne.jp^
 iMgix.net^
 Krita.org^
 Krita-artists.org^
