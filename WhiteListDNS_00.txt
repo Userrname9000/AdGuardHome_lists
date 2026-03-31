@@ -873,6 +873,7 @@ apps.Apple.com^
 apps.iTunes-noCookie.com^
 bpApi.Apple.com^
 ca.iadSDK.Apple.com^
+cable.Auth.com^
 captive.Apple.com^
 cdn-Apple.com^
 cds.Apple.com^
