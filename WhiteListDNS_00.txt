@@ -819,6 +819,7 @@ MozGCP.net^
 ##############################
 ########📷Pint+Insta🖼️:#######
 ##############################
+accounts.Meta.com^
 api.Facebook.com^
 api.instagram.com^
 api.pinterest.com^
@@ -864,10 +865,12 @@ z-p42-chat-e2ee-ig-fallback.Facebook.com^
 #########🍎Apple⬜:###########
 ##############################
 aAplimg.com^
+account.apple.com^
 afs.AmpaEServices.com^
 aidc.apple.com^
 AlBert.Apple.com^
 Apple-DNS.net^
+appleid-ut.corp.apple.com^
 AppleID.Apple.com^
 apps.Apple.com^
 apps.iTunes-noCookie.com^
@@ -889,6 +892,7 @@ DoH.DNS.Apple.com^
 ess.Apple.com^
 euc1-wps-prod.Apple.com^
 experiments.Apple.com^
+familyws.icloud.apple.com^
 GateWay-Oblivious.Apple.com^
 gc.Apple.com^
 gdmf-ados.Apple.com^
