@@ -1061,6 +1061,7 @@ sustainAbility.Google^
 time.Android.com^
 time.Google.com^
 translate.Google.com^
+wallet.Google.com^
 wide-YouTube.L.Google.com^
 www.Google.com^
 www.Google.ee^
