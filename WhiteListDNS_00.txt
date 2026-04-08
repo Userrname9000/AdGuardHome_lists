@@ -1523,6 +1523,7 @@ www.Cloudflare.com^
 #########🟥Yandex🔍:##########
 ##############################
 YA.ru^
+Yandex.ru^
 api-Maps.Yandex.com^
 api-Maps.Yandex.net^
 api-Maps.Yandex.ru^
