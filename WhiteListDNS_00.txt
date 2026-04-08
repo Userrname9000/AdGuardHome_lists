@@ -301,9 +301,11 @@ FwUpd.org^
 GameLoft.com^
 GamingOnLinux.com^
 GeeksforGeeks.org^
-GeForce.com^
-GetIntra.org^
+GFN.ru^
 GFN.am^
+GeForce.com^
+GeForceNow.com^
+GetIntra.org^
 gHacks.net^
 Ghostery.com^
 Ghostery.net^
