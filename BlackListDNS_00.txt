@@ -32,10 +32,8 @@
 ||aviasales.fun^$important
 ##################################
 ############🇷🇺Gov:👮##############
-||Digital.gov.ru^$important
 ||Duma.gov.ru^$important
 ||FSO.gov.ru^$important
-||www.Gov.ru^$important
 ||GosSluzhba.gov.ru^$important
 ||Government.ru^$important
 ||Kremlin.ru^$important
