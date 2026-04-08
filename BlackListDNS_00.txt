@@ -60,6 +60,9 @@
 ||*.ads.Yandex.ru^$important
 ||Alice.*^$important
 ||*.Alice.*^$important
+||*.AlicePro.Yandex.ru^$important
+||*.AlicePro.Yandex.com^$important
+||*.AlicePro.Yandex.net^$important
 ||*.Alice.Yandex.az^$important
 ||*.AliceAi.Yandex.com^$important
 ||*.AliceAi.Yandex.net^$important
@@ -139,6 +142,9 @@
 ||ads.Yandex.com^$important
 ||ads.Yandex.net^$important
 ||ads.Yandex.ru^$important
+||AlicePro.Yandex.ru^$important
+||AlicePro.Yandex.com^$important
+||AlicePro.Yandex.net^$important
 ||Alice.Yandex.az^$important
 ||Alice.Yandex.com^$important
 ||Alice.Yandex.net^$important
