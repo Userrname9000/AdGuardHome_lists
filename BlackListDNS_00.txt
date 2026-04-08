@@ -101,9 +101,9 @@
 ||*.mc.Yandex.com^$important
 ||*.mc.Yandex.net^$important
 ||*.mc.Yandex.ru^$important
-||*.media-adv.vs.market.Yandex.com^
-||*.media-adv.vs.market.Yandex.net^
-||*.media-adv.vs.market.Yandex.ru^
+||*.media-adv.vs.market.Yandex.com^$important
+||*.media-adv.vs.market.Yandex.net^$important
+||*.media-adv.vs.market.Yandex.ru^$important
 ||*.Messenger.Yandex.net^$important
 ||*.partner.Yandex.com^$important
 ||*.partner.Yandex.net^$important
@@ -195,9 +195,9 @@
 ||mc.Yandex.com^$important
 ||mc.Yandex.net^$important
 ||mc.Yandex.ru^$important
-||media-adv.vs.market.Yandex.com^
-||media-adv.vs.market.Yandex.net^
-||media-adv.vs.market.Yandex.ru^
+||media-adv.vs.market.Yandex.com^$important
+||media-adv.vs.market.Yandex.net^$important
+||media-adv.vs.market.Yandex.ru^$important
 ||Messenger.Yandex.net^$important
 ||partner.Yandex.com^$important
 ||partner.Yandex.net^$important
