@@ -64,6 +64,7 @@ cdn.ZiffStatic^
 ##############################
 BroadCom.com^
 Beacondb.net^
+RadioCells.org^
 CoMaps.app^
 GLpals.com^
 Geo.cookie-script.com^
@@ -90,7 +91,8 @@ QcomGeo2.com^
 qGis.org^
 Qualcomm.com^
 Quectel.com^
-supl.Gooogle.com^
+supl.Google.com^
+supl.Google^
 supl.QcomGPS.com^
 supl.QcomGPS^
 supl.Qualcomm.com^
