@@ -1060,6 +1060,7 @@ Lh1.Google.com^
 Lh2.Google.com^
 Lh3.Google.com^
 mail.Google.com^
+messages.google.com^
 mTalk.Google.com^
 myaccount.Google.com^
 nhacmp3YouTube.com^
