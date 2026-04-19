@@ -218,6 +218,9 @@ cdn2site.com^
 cdn3.Optimizely.com^
 CDN77.com^
 CDN77.org^
+cachefly.net^
+bcdnx.com^
+cdn28.com^
 CDNbunny.org^
 CDNpk.net^
 CDPR.app^
@@ -1009,7 +1012,7 @@ use.TypeKit.net^
 Linearity.io^
 www.Adobe.com^
 ##############################
-####📧🟦Google + YouTube🟥🎥###
+###📧🟦Google + YouTube🟥🎥###
 ##############################
 Android.com^
 about.Google^
@@ -1394,8 +1397,9 @@ dns.Comss.one^
 router.Comss.one^
 www.Comss.ru^
 ##############################
-#########🖥️🕹️Steam🎮📺:########
+#########🖥️🕹️Steam🎮📺:#######
 ##############################
+cdn.steampipe^
 ndp.nGNi.us^
 ndp.ngram.ca^
 api.SteamPowered.com^
@@ -1409,6 +1413,7 @@ SteamCDN-a.AkamaiHD.net^
 SteamCloudWweden.blob.core.Windows.net^
 SteamCommunity.com^
 SteamContent.com^
+steamconnecttest.com^
 SteamDB.info^
 SteamGridDB.com^
 SteamLoopBack.Host^
