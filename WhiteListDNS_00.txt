@@ -556,6 +556,7 @@ OpenPGP.org^
 OpenSource.org^
 OpenWRT.org^
 Oplata.info^
+orange.com^
 Orb.link^
 Orb.net^
 OssPlanet.net^
