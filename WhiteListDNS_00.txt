@@ -110,8 +110,6 @@ TimeZoneDB.com^
 Open-Meteo.com^
 GeoNames.org^
 WeatherAPi.com^
-QuantenToast.de^
-Warhammer40k.fandom.com^
 OpenStreetMap.org^
 OpenFreeMap.org^
 VersaTiles.org^
@@ -790,6 +788,8 @@ silky.network^
 soft.mydiv.net^
 techpowerup.com^
 tpucdn.com^
+QuantenToast.de^
+Warhammer40k.fandom.com^
 ##############################
 #######🗄️Host4️Safety🖼:#######
 ##############################
