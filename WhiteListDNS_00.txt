@@ -106,6 +106,15 @@ Lcdn-Locator.Apple.com^
 Locate-cld-aeuw1.Apple.com^
 LocationHistory-pa.GoogleApis.com^
 GeoMobileServices-pa.GoogleApis.com^
+TimeZoneDB.com^
+Open-Meteo.com^
+GeoNames.org^
+WeatherAPi.com^
+QuantenToast.de^
+Warhammer40k.fandom.com^
+OpenStreetMap.org^
+OpenFreeMap.org^
+VersaTiles.org^
 2Gis.com^
 2Gis.ru^
 api.auth.2Gis.com^
