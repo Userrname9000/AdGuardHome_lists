@@ -370,3 +370,8 @@
 ||UnMiss.com^$important
 ||*.koffer.com^$important
 ||meet7koffer.com^$important
+||api.oneme.ru^$important
+||mob-manager-aws.mob.taxi.yandex.net^$important
+||relay-api.eu.2gis.com^$important
+||trace-flow.ru^$important
+||vk-analytics.ru^$important
