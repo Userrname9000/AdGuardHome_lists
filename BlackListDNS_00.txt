@@ -375,3 +375,4 @@
 ||relay-api.eu.2gis.com^$important
 ||trace-flow.ru^$important
 ||vk-analytics.ru^$important
+||v4-iphone-s05.uss.2gis.com^$important
