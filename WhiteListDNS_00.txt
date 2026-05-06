@@ -200,6 +200,10 @@ BrowserScan.net^
 bSky.app^
 Bubble.io^
 Bunny.net^
+Battle.net^
+Blizzard.com^
+BnetAccount.Akamaized.net^
+Blz-contentStack.com^
 CanBeUseful.com^
 CatCert.net^
 CBR.ru^
@@ -475,6 +479,7 @@ KinoPoisk.ru^
 Ko-Fi.com^
 KomodoLabs.com^
 Kumi.systems^
+Krafton.io^
 kxCDN.com^
 LacNIC.net^
 LanComnet.net^
@@ -614,6 +619,7 @@ ReCaptcha.net^
 RedmondMag.com^
 Remontka.pro^
 Reestr-PKi.ru^
+Revanced.app^
 RFC-Editor.org^
 RG-AdGuard.net^
 RichAudience.com^
