@@ -368,3 +368,5 @@
 ||illicium.com.au^$important
 ||Anzu.io^$important
 ||UnMiss.com^$important
+||*.koffer.com^$important
+||meet7koffer.com^$important
