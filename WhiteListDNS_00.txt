@@ -1686,6 +1686,8 @@ Agrd.ru^
 Agrd-tm.com^
 Bkp-auth.AdHuard-vpn.online^
 BitAssist.online^
+VirtualBusiness.blog^
+AgrdVPN-tm.com.^
 DoH.pub^
 Mask.me^
 mobile-api.AdGuard.org^
