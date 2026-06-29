@@ -408,6 +408,7 @@ GRC.com^
 GreenBone.net^
 Group-iB.com^
 Group-iB.ru^
+GroupiB-am.AlfaBank.ru^
 GroupiB-ac.AlfaBank.ru^
 GwDg.de^
 Hacker101.com^
