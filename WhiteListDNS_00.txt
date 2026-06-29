@@ -747,6 +747,7 @@ VimeoCDN.com^
 VipCoin.cc^
 VirusTotal.com^
 Vytal.io^
+Voskhod.ru^
 w3.org^
 Wacom.co^
 Wander.Science^
@@ -1755,6 +1756,11 @@ Vector.im^
 api.Banki.ru^
 cdn.Banki.ru^
 www.Banki.ru^
+static.Banki.ru^
+static0.Banki.ru^
+static1.Banki.ru^
+static2.Banki.ru^
+static3.Banki.ru^
 ##############################
 ###########⬛T2📱:############
 ##############################
