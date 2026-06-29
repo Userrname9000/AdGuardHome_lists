@@ -334,7 +334,7 @@ Edge.OnPhone.app^
 EdgeCDN.ru^
 EdgeCenter.ru^
 EdgeKey.net^
-Edu.cn^
+EDU.cn^
 EFF.org^
 Electrum.org^
 emojiGraph.org^
@@ -351,7 +351,7 @@ Fanboy.co.nz^
 Fastly-Edge.com^
 Fastly.net^
 Fau.de^
-fcix.net^
+FCiX.net^
 FeRoot.com^
 FileCR.com^
 FileScan.io^
@@ -446,8 +446,8 @@ init7.net^
 iNodeNinja.net^
 inria.fr^
 intel.com^
-intercom.io
-intercomCDN.com^
+interCom.io^
+interComCDN.com^
 invisioncic.com^
 ip-APi.com^
 ip-Tracker.org^
@@ -654,7 +654,7 @@ SimilarWeb.com^
 SimpleScraper.io^
 SimpleSVG.com^
 SiteChecker.pro^
-Slc.tl^
+SLC.tl^
 Smart-gLocal.com^
 SmartGsLb.com^
 SNBForums.com^
@@ -769,7 +769,7 @@ Wormly.com^
 www.DNS-Shop.ru^
 www.CCleaner.com^
 www.Notion.so^
-Playground.ru^
+PlayGround.ru^
 Xakep.ru^
 XakerForum.com^
 Yadda.dev^
@@ -799,8 +799,8 @@ OsPanel.io^
 ru-Board.com^
 Silky.network^
 Soft.MyDiv.net^
-techpowerup.com^
-tpucdn.com^
+TechPowerUP.com^
+tpuCDN.com^
 QuantenToast.de^
 Warhammer40k.fandom.com^
 Molly.im^
@@ -811,6 +811,7 @@ iZZySoft.de^
 Torus.icu^
 iZZyonDroid.org^
 CodeBerg.org^
+Alfa-Mobile.AlfaBank.ru^
 ##############################
 #######🗄️Host4️Safety🖼:#######
 ##############################
@@ -1270,7 +1271,7 @@ wdcp.Microsoft.com^
 wcpStatic.Microsoft.com^
 WindowsUpdate.com^
 WinGet.run^
-Winstall.app^
+WinStall.app^
 wuStat.Windows.com^
 www.Bing.com^
 www.BingApis.com^
@@ -1802,6 +1803,7 @@ Gosuslugi.ru^$important
 GU-st.ru^$important
 RosKazna.ru^$important
 Nalog.ru^$important
+polls.Nalog.gov.ru^$important
 es.Pfrf.ru^$important
 Sfr.gov.ru^$important
 Digital.gov.ru^$important
