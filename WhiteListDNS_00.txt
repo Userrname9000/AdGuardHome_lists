@@ -803,6 +803,7 @@ TechPowerUP.com^
 tpuCDN.com^
 QuantenToast.de^
 Warhammer40k.fandom.com^
+Binsky.dev^
 Molly.im^
 ArtemChep.com^
 Microg.org^
@@ -1281,6 +1282,10 @@ www2.Bing.com^
 Xbox.com^
 XboxLive.com^
 XboxServices.com^
+logincdn.MsAuth.net^
+c.s-Microsoft.com^
+js.monitor.Azure.com^
+uhf.Microsoft.com^
 ##############################
 ########🎶Spotify🎧:##########
 ##############################
