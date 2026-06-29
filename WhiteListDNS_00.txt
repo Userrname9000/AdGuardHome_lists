@@ -1049,6 +1049,7 @@ pk.Goog^
 1e100cdn.net^
 accounts.Google.com^
 accounts.Google.ru^
+accounts.Google.md^
 apis.Google.com^
 calendar.Google.com^
 chrome.Google.com^
