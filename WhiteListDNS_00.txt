@@ -1616,6 +1616,7 @@ downloader.Yandex.ru^
 eGress.Yandex.com^
 eGress.Yandex.net^
 eGress.Yandex.ru^
+ext.Captcha.Yandex.net^
 favicon.Yandex.net^
 frontEnd.vh.Yandex.ru^
 GeoInternal.mob.Maps.Yandex.com^
