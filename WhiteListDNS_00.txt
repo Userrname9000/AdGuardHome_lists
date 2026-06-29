@@ -1119,6 +1119,7 @@ www.Google.ee^
 www.Google.se^
 www.Google.lv^
 www.Google.ru^
+www.Google.md^
 www.Gstatic.com^
 YouTu.be^
 YouTube-noCookie.com^
