@@ -408,6 +408,7 @@ GRC.com^
 GreenBone.net^
 Group-iB.com^
 Group-iB.ru^
+GroupiB-ac.AlfaBank.ru^
 GwDg.de^
 Hacker101.com^
 HackerLab.pro^
@@ -681,6 +682,7 @@ StandOff365.com^
 Stanford.edu^
 Star-History.com^
 Startpage.com^
+Statically.io^
 StickerCommunity.com^
 store.RG-AdGuard.net^
 StormWall.pro^
@@ -781,6 +783,7 @@ ZeroSSL.com^
 ZoneOfGames.ru^
 zScaler.com^
 xBox-DNS.ru^
+xSocks.pro^
 id.Dom.ru^
 cdn-b2c.Dom.ru^
 tula.Dom.ru^
