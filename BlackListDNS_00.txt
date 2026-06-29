@@ -95,9 +95,6 @@
 ||*.download-Paranja.Yandex.ru^$important
 ||*.ipv4-internet.Yandex.net^$important
 ||*.ipv6-internet.Yandex.net^$important
-||*.Lavka.Yandex.com^$important
-||*.Lavka.Yandex.net^$important
-||*.Lavka.Yandex.ru^$important
 ||*.mc.WebVisor.net^$important
 ||*.mc.WebVisor.org^$important
 ||*.mc.WebVisor.ru^$important
@@ -193,8 +190,6 @@
 ||Dialogs.Yandex.ru^$important
 ||ipv4-internet.Yandex.net^$important
 ||ipv6-internet.Yandex.net^$important
-||Lavka.Yandex.net^$important
-||Lavka.Yandex.ru^$important
 ||mc.WebVisor.net^$important
 ||mc.WebVisor.org^$important
 ||mc.WebVisor.ru^$important
