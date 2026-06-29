@@ -299,7 +299,7 @@ Discord.com^
 Discord.gg^
 Disqus.com^
 Diversion.ch^
-dns.Ninja^
+DNS.Ninja^
 DNS.sb^
 dnsBunker.org^
 DNScheck.pro^
