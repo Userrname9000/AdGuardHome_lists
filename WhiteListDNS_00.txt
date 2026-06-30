@@ -1687,7 +1687,6 @@ Unsubscribe.Yandex.fi^
 ##############################
 ##########🥷AdGuard:🛡️########
 ##############################
-AgdDSN.de^
 AdGuard-DNS.com^
 AdGuard-DNS.io^
 AdGuard-mail.com^
@@ -1706,6 +1705,7 @@ AdGuardAccount.net^
 AdGuardCDN.com^
 AdGuardCDN.net^
 AdGuardHelp-VPN.info^
+AdGuardVPN-tm.com^
 AdTidy.info^
 AdTidy.net^
 AdTidy.org^
@@ -1716,11 +1716,11 @@ Agrd.net^
 Agrd.org^
 Agrd.ru^
 Agrd-tm.com^
+AgrdVPN-tm.com^
 *.Bkp-api.AdGuard-VPN.online^
 *.Bkp-auth.AdGuard-VPN.online^
 BitAssist.online^
 VirtualBusiness.blog^
-AgrdVPN-tm.com.^
 EncrName.bkp-api.AdGuard-VPN.online^
 DoH.pub^
 Mask.me^
