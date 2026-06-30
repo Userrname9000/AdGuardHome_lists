@@ -19,7 +19,7 @@ Explosive.Homes^
 iPFS.DWeb.Link^
 ipFS.io^
 ipFS.tech^
-proxy-ssl.js^
+proxy-SSL.js^
 proxy.pac^
 TheNewOne.lol.proxy.pac^
 TheNewOne.lol^
@@ -63,7 +63,7 @@ cdn.ZiffStatic^
 ##########🗺️GPS:🧭############
 ##############################
 BroadCom.com^
-Beacondb.net^
+BeaconDB.net^
 RadioCells.org^
 CoMaps.app^
 GLpals.com^
@@ -161,7 +161,7 @@ AlienVault.com^
 AllPCWorld.com^
 AlternativeTo.net^
 AltStore.io^
-AmiUnique.org^
+amIunique.org^
 AmpProject.org^
 Any.run^
 Anexia.com^
@@ -229,9 +229,9 @@ cdn2site.com^
 cdn3.Optimizely.com^
 CDN77.com^
 CDN77.org^
-cachefly.net^
-bcdnx.com^
-cdn28.com^
+Cachefly.net^
+bCDNx.com^
+CDN28.com^
 CDNbunny.org^
 CDNpk.net^
 CDPR.app^
@@ -241,7 +241,7 @@ Cedexis-test.com^
 Cedexis.com^
 ChargeBee.com^
 Check-host.net^
-CheckAdblock.ru^
+CheckAdBlock.ru^
 ChinaJSC.com^
 Chocolatey.org^
 Cisco.com^
@@ -252,7 +252,7 @@ Cloud.ru^
 CloudFront.net^
 CloudFunctions.net^
 cm.mGid.com^
-Codeby.net^
+CodeBy.net^
 CoinGecko.com^
 CoinMarketCap.com^
 Comodo.com^
@@ -344,7 +344,7 @@ EnTrust.net^
 EntWare.net^
 Eset.com^
 eSign.yyyue.xyz^
-eSiMservices.com^
+eSimServices.com^
 F-Droid.org^
 FACCT.ru^
 Fanboy.co.nz^
@@ -487,7 +487,7 @@ LacNIC.net^
 LanComnet.net^
 LazyShop.app^
 LeaderSSL.ru^
-Lencr.org^
+LenCr.org^
 Lenovo.com^
 LetsEncrypt.org^
 Level1Techs.com^
@@ -496,7 +496,7 @@ Lib-OS.ru^
 LibreDNS.gr^
 Linux.org.ru^
 LiteSpeedTech.com^
-Lite.Host^
+Lite.host^
 Liu.se^
 LiveConfig.com^
 LocalCDN.org^
@@ -540,7 +540,7 @@ Nexus-CDN.com^
 NexusMods.com^
 Nginx.com^
 Nginx.org^
-ngarams.dev^
+nGarams.dev^
 NinjaOne.com^
 NiST.Gov^
 nlNetLabs.nl^
@@ -583,7 +583,7 @@ OWASP.org^
 PackageControl.io^
 Path.net^
 PayPal.com^
-PCguide.com^
+pcGuide.com^
 Pch.net^
 PeeringDB.com^
 Pentest-Tools.com^
@@ -659,7 +659,7 @@ Smart-gLocal.com^
 SmartGsLb.com^
 SNBForums.com^
 SndCDN.com^
-SNi.global.Fastly.net^
+sni.global.Fastly.net^
 Snort.org^
 SNote.io^
 Software.informer.com^
