@@ -1106,6 +1106,8 @@ NS2.Google.com^
 NS3.Google.com^
 NS4.Google.com^
 ogs.Google.com^
+oHttp.prod.via.Google^
+SBA.keys.oHttp.prod.via.Google^
 patents.Google.com^
 play.Google.com^
 policies.Google.com^
