@@ -1688,6 +1688,9 @@ Unsubscribe.Yandex.com^
 Unsubscribe.Yandex.net^
 Unsubscribe.Yandex.kz^
 Unsubscribe.Yandex.fi^
+Lavka.Yandex.net^
+Lavka.Yandex.com^
+Lavka.Yandex.ru^
 ##############################
 ##########🥷AdGuard:🛡️########
 ##############################
