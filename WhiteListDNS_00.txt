@@ -468,7 +468,7 @@ JoeSandbox.com^
 jQuery.com^
 js.Qualified.com^
 js.Stripe.com^
-JSdelivr.net^
+jsDelivr.net^
 Kali.org^
 Kali.download^
 Kaspersky.com^
@@ -510,7 +510,7 @@ LwCDN.com^
 Mail.me.com^
 MartiCliment.com^
 MaxMind.com^
-MemoryCleaner.kilho.net^
+MemoryCleaner.Kilho.net^
 MetaSploit.com^
 Megafon.ru^
 Mi-img.com^
@@ -543,7 +543,7 @@ Nginx.org^
 nGarams.dev^
 NinjaOne.com^
 NiST.Gov^
-nlNetLabs.nl^
+NLNetLabs.nl^
 NOC.org^
 NotePad-plus-plus.org^
 Notion.site^
