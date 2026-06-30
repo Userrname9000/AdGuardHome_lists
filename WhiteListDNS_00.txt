@@ -1655,6 +1655,9 @@ passport.Yandex.ru^
 passport.yandex.kz^
 resize.Yandex.ru^
 resize.Yandex.net^
+storage.Yandex.net^
+storage.Yandex.com^
+storage.Yandex.ru^
 SuperSender.Yandex.net^
 svc.CDN.Yandex.com^
 svc.CDN.Yandex.net^
