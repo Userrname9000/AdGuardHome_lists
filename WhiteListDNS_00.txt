@@ -21,7 +21,7 @@ ipFS.io^
 ipFS.tech^
 proxy-ssl.js^
 proxy.pac^
-thenewone.lol.proxy.pac^
+TheNewOne.lol.proxy.pac^
 TheNewOne.lol^
 v.31337.lol^
 v.Recipes^
@@ -40,7 +40,7 @@ _dns-sd._tcp.*.in-addr.arpa^$important
 lb._dns-sd._udp.homeworld264^$important
 ##############################
 #########🛜ASUSTeK:###########
-ASUS-aiCam.com^
+ASUS-AiCam.com^
 ASUS.com^
 ASUScomm.com^
 ASUSWrt-Merlin.net^
