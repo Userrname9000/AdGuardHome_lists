@@ -590,6 +590,7 @@ Pentest-Tools.com^
 pgl.YoYo.org^
 Philips.com^
 Philips.ru^
+pngTree.com^
 Pi-Hole.net^
 PingLess.dev^
 PixelDrain.com^
@@ -747,6 +748,7 @@ VipCoin.cc^
 VirusTotal.com^
 Vytal.io^
 Voskhod.ru^
+VPSfilter.com^
 w3.org^
 Wacom.co^
 Wander.Science^
