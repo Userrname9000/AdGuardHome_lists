@@ -1711,10 +1711,12 @@ Agrd.net^
 Agrd.org^
 Agrd.ru^
 Agrd-tm.com^
-Bkp-auth.AdHuard-vpn.online^
+*.Bkp-api.AdGuard-VPN.online^
+*.Bkp-auth.AdGuard-VPN.online^
 BitAssist.online^
 VirtualBusiness.blog^
 AgrdVPN-tm.com.^
+EncrName.bkp-api.AdGuard-VPN.online^
 DoH.pub^
 Mask.me^
 mobile-api.AdGuard.org^
