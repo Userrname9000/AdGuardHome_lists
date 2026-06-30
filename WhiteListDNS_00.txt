@@ -575,9 +575,10 @@ OpenPGP.org^
 OpenSource.org^
 OpenWRT.org^
 Oplata.info^
-orange.com^
+Orange.com^
 Orb.link^
 Orb.net^
+OracleCDN.net^
 OssPlanet.net^
 OWASP.org^
 PackageControl.io^
