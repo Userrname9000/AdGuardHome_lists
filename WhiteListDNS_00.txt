@@ -773,6 +773,7 @@ www.Notion.so^
 PlayGround.ru^
 Xakep.ru^
 XakerForum.com^
+Xed-Editor.app^
 Yadda.dev^
 YarnPKG.com^
 ZDAssets.com^
