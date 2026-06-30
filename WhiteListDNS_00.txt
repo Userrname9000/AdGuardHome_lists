@@ -1048,6 +1048,7 @@ www.Adobe.com^
 ##############################
 Android.com^
 about.Google^
+*.a.run.app^
 c.pki.Goog^
 i.pki.Goog^
 o.pki.Goog^
