@@ -340,8 +340,8 @@ Electrum.org^
 emojiGraph.org^
 EnaCDN.net^
 EncryptedSNi.com^
-Entrust.net^
-Entware.net^
+EnTrust.net^
+EntWare.net^
 Eset.com^
 eSign.yyyue.xyz^
 eSiMservices.com^
@@ -433,18 +433,17 @@ i.MyCDN.me^
 i3D.net^
 i3D.nl^
 iANA.org^
-iconify.Design^
+iConify.Design^
 iEEE.org^
 iETF.org^
 iGroMagaz.ru^
 iiTrust.ru^
 iMDB.com^
-imgbb.com^
 immuniWeb.com^
 in-Com.com^
 init7.net^
 iNodeNinja.net^
-inria.fr^
+inRia.fr^
 intel.com^
 interCom.io^
 interComCDN.com^
@@ -512,7 +511,7 @@ Mail.me.com^
 MartiCliment.com^
 MaxMind.com^
 MemoryCleaner.kilho.net^
-Metasploit.com^
+MetaSploit.com^
 Megafon.ru^
 Mi-img.com^
 miCloud.mi.com^
@@ -541,7 +540,7 @@ Nexus-CDN.com^
 NexusMods.com^
 Nginx.com^
 Nginx.org^
-ngrams.dev^
+ngarams.dev^
 NinjaOne.com^
 NiST.Gov^
 nlNetLabs.nl^
@@ -592,7 +591,7 @@ pgl.YoYo.org^
 Philips.com^
 Philips.ru^
 Pi-Hole.net^
-Pingless.dev^
+PingLess.dev^
 PixelDrain.com^
 PixelScan.net^
 Pkgs.org^
@@ -607,7 +606,7 @@ PulseDive.com^
 PurDue.edu^
 pushServer.eDNA.id^
 pushServer.MfMS.ru^
-PYpi.org^
+PyPi.org^
 PythonHosted.org^
 PyTorch.org^
 qRator.net^
@@ -626,7 +625,6 @@ Remontka.pro^
 Reestr-PKi.ru^
 Revanced.app^
 RFC-Editor.org^
-RG-AdGuard.net^
 RichAudience.com^
 RiPE.net^
 RKN.i2p^
@@ -697,7 +695,7 @@ SubdomainFinder.c99.nl^
 SubdomainFinder.in^
 SubDomainRadar.io^
 SuperUser.com^
-Symantec.com^
+SymanTec.com^
 TAdviser.ru^
 TailWindCSS.com^
 TechnoResult.com^
@@ -857,6 +855,7 @@ relay.Firefox.com^
 FirefoxUserContent.com^
 Location.services.Mozilla.com^
 Location.services.Mozilla.org^
+Location.services.Mozilla.net^
 Mozilla.org^
 monitor.Mozilla.org^
 PublicSuffix.org^
