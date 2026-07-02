@@ -1886,6 +1886,7 @@ www.VTB.ru^
 api-dd.Tinkoff.ru^
 api.T-Bank-app.ru^
 cdn.T-Bank-app.ru^
+*.callerid.T-Bank-app.ru^
 *.certs.T-Bank-app.su^
 cfg.T-Bank-app.ru^
 csc.TBank.ru^
@@ -1896,6 +1897,7 @@ gtech-gus.T-Bank-app.ru^
 media.Tinkoff.ru^
 ms-loyalty-api.Tinkoff.ru^
 my-home.Tinkoff.ru^
+*.mvno-api-callerid-whocalls.t-static.ru^
 *.PreIdentity.TBank-online.com^
 polls.TBank.ru^
 rtb-s2p.TBank.ru^
