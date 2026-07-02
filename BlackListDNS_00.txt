@@ -236,16 +236,6 @@
 ||zapravki.Yandex.net^$important
 ||zapravki.Yandex.ru^$important
 ##################################
-##############Сбер:###############
-#||ai-Agent1.SberDevices.ru^$important
-#||clickbeat.SberDevices.ru^$important
-#||GigaChat-bot.prom.app.SberDevices.ru^$important
-#||id.Sber.ru.homeworld264^$important
-#||mpSbol.ant.SberBank.ru^$important
-#||Sber.ru^$important
-#||SberBank.ru^$important
-#||third-party-app.SberDevices.ru^$important
-##################################
 ############Google:###############
 ||AdMob.com^$important
 ||AdSense.com^$important
