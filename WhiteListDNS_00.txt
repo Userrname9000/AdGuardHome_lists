@@ -1907,6 +1907,7 @@ webim-tknzr.Tinkoff.ru^
 ||clickbeat.SberDevices.ru^$important
 ||GigaChat-bot.prom.app.SberDevices.ru^$important
 ||third-party-app.SberDevices.ru^$important
+id.Sber.ru^$important
 id.Sber.ru.homeworld264^$important
 mpSbol.ant.SberBank.ru^$important
 Sber.ru^$important
