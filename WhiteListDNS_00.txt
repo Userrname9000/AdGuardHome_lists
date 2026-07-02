@@ -1356,6 +1356,9 @@ themoviedb.org^
 mycdn.video^
 api.segment.io^
 static.cloudflareinsights.com^
+nyv0.tsx.ovhitem^
+cdn.jsdelivr.net^
+cdn.jsdelivr.net.cdn.cloudflare.net^
 ##############################
 ###########💻VPN🗽:###########
 ##############################
