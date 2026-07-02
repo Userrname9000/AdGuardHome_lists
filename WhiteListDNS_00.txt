@@ -477,7 +477,7 @@ KayakoCDN.com^
 KDE-Look.org^
 KDE.org^
 Keenetic.com^
-KinoPoisk.ru^
+www.KinoPoisk.ru^
 Ko-Fi.com^
 KomodoLabs.com^
 Kumi.systems^
