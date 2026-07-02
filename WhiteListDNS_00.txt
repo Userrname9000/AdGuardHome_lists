@@ -1355,6 +1355,7 @@ proxyKP.xyz^
 themoviedb.org^
 mycdn.video^
 api.segment.io^
+static.cloudflareinsights.com^
 ##############################
 ###########💻VPN🗽:###########
 ##############################
