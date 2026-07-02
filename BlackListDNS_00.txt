@@ -372,3 +372,4 @@
 ||relay-api.eu.2gis.com^$important
 ||trace-flow.ru^$important
 ||vk-analytics.ru^$important
+||adservings.ru^$important
