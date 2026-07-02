@@ -371,6 +371,7 @@ ftCDN.net^
 Future-tec.systems^
 FwUpd.org^
 *.GameLoft.com^
+*.GameNative.app^
 GamingOnLinux.com^
 GeeksforGeeks.org^
 gCDN.co^
