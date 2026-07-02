@@ -778,6 +778,7 @@ Xed-Editor.app^
 Yadda.dev^
 YarnPKG.com^
 YulorePages.com^
+us.i.PostHog.com^
 ZDAssets.com^
 ZenCDN.net^
 ZenDesk.com^
