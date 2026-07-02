@@ -420,6 +420,7 @@ HackTheBox.com^
 HackWare.ru^
 Harica.gr^
 hCaptcha.com^
+HideMega.to^
 HE.net^
 HelpLook.net^
 HerokuDNS.com^
