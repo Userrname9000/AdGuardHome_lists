@@ -1054,6 +1054,7 @@ www.Adobe.com^
 ###📧🟦Google + YouTube🟥🎥###
 ##############################
 *.172.217.20.163^
+*.216.239.36.223^
 *.Android.com^
 *.about.Google^
 *.a.run.app^
@@ -1067,17 +1068,17 @@ www.Adobe.com^
 *.accounts.Google.ru^
 *.accounts.Google.md^
 *.apis.Google.com^
-calendar.Google.com^
+*.calendar.Google.com^
 Chrome.Google.com^
 ChromeWebStore.Google.com^
 Chromium.org^
 *.clients.Google.com^
 *.clients1.Google.com^
-clients2.Google.com^
-clients3.Google.com^
-clients4.Google.com^
-clients5.Google.com^
-clients6.Google.com^
+*.clients2.Google.com^
+*.clients3.Google.com^
+*.clients4.Google.com^
+*.clients5.Google.com^
+*.clients6.Google.com^
 *.connectivityCheck.gStatic.com^
 *.csp.WithGoogle.com^
 developers.Google.cn^
