@@ -1069,6 +1069,7 @@ www.Adobe.com^
 *.accounts.Google.md^
 *.apis.Google.com^
 *.calendar.Google.com^
+*.chat.Google.com^
 Chrome.Google.com^
 ChromeWebStore.Google.com^
 Chromium.org^
