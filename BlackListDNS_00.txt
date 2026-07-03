@@ -240,7 +240,6 @@
 ||AdMob.com^$important
 ||AdSense.com^$important
 ||AdWords.com^$important
-||Chat.Google.com^$important
 ||CrashlyTicsReports-pa.GoogleApis.com^$important
 ||DoubleClick.com^$important
 ||DoubleClick.net^$important
