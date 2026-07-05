@@ -1320,6 +1320,7 @@ uhf.Microsoft.com^
 ##############################
 ########📽️Kino.pub🍿:#########
 ##############################
+kpapp.link^
 *.nyv0.tsx.ovh^
 *.Kino.Pub^
 *.KinoPub.link^
@@ -1337,7 +1338,6 @@ uhf.Microsoft.com^
 *.iOS-KP.store^
 *.Mos-GorSud.co^
 *.Mos-GorSud.site^
-*.pushBR.com^
 *.rtbCDN.ru^
 *.SmartTVcdn.online^
 *.SrvKP.com^
@@ -1350,9 +1350,9 @@ uhf.Microsoft.com^
 *.alador.space^
 *.api.alador.space^
 *.pushbr.com^
-*.m.pushbr.com^
+m.pushbr.com^
 *.i0.wp.com^
-*.api.boramoraboom.ru^
+api.boramoraboom.ru^
 *.cdn-service.space^
 *.lexcdn.cloud^
 *.s.luxcdn.com^
@@ -1364,8 +1364,8 @@ uhf.Microsoft.com^
 *.api.segment.io^
 *.static.cloudflareinsights.com^
 *.nyv0.tsx.ovhitem^
-*.cdn.jsdelivr.net^
-*.cdn.jsdelivr.net.cdn.cloudflare.net^
+cdn.jsdelivr.net^
+cdn.jsdelivr.net.cdn.cloudflare.net^
 ##############################
 ###########💻VPN🗽:###########
 ##############################
