@@ -1888,6 +1888,9 @@ www.VTB.ru^
 api-dd.Tinkoff.ru^
 api.T-Bank-app.ru^
 cdn.T-Bank-app.ru^
+mddc.Tinkoff.ru^
+acdn.Tinkoff.ru^
+imgproxy.cdn-Tinkoff.ru^
 *.callerid.T-Bank-app.ru^
 *.certs.T-Bank-app.su^
 cfg.T-Bank-app.ru^
