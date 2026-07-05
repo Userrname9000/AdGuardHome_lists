@@ -1905,6 +1905,7 @@ rtb-s2p.TBank.ru^
 shortcuts.Tinkoff.ru^
 tm.T-Bank-app.ru^
 webim-tknzr.Tinkoff.ru^
+www.TBank.ru^
 ################################
 #############🏦Сбер💳:##########
 ||ai-Agent1.SberDevices.ru^$important
@@ -2013,6 +2014,11 @@ Habr.com^
 *.bookMnt.online^
 *.ExChanger.market^
 *.SRVplay.com^
+##############################
+##########🛜Dom.ru🌐:#########
+##############################
+*.web-api.Dom.ru^
+*.s.r1.team^
 ##############################
 ############Etc.##############
 ##############################
