@@ -1090,6 +1090,7 @@ developers.Google.com^
 *.docs.Google.com^
 *.drive.Google.com^
 *.fiber.Google.com^
+*.inbox.Google.com^
 *.gFiber.com^
 *.Ggpht.com^
 *.Gmail.com^
