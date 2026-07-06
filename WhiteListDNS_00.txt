@@ -462,6 +462,7 @@ iPiz.net^
 iPLeak.net^
 ipSHU.com^
 isitDownRightNow.com^
+isMalicious.com^
 isMyInternetWorking.org^
 ISPserver.ru^
 iXbt.com^
@@ -795,7 +796,7 @@ zScaler.com^
 *.xBox-DNS.ru^
 *.xSocks.pro^
 id.Dom.ru^
-cdn-b2c.Dom.ru^
+CDN-b2c.Dom.ru^
 tula.Dom.ru^
 AllThingsLinux.org^
 *.Chaotic.cx^
