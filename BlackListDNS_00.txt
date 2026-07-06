@@ -40,15 +40,7 @@
 ||RKN.gov.ru^$important
 ##################################
 ############🏦Т-Банк:💸###########
-||*.api-statist.Tinkoff.ru^$important
-||*.Fingerprint.T-static.ru^$important
-||*.sage-collector.TBank.ru^$important
-||*.sso-forms-prod.T-static.ru^$important
 ||*.Tmiaf.ru^$important
-||api-statist.Tinkoff.ru^$important
-||Fingerprint.T-static.ru^$important
-||sage-collector.TBank.ru^$important
-||sso-forms-prod.T-static.ru^$important
 ||Tmiaf.ru^$important
 ||shopping.t-bank-app.ru^$important
 ||stories-rtb.t-bank-app.ru^$important
@@ -362,3 +354,7 @@
 ||trace-flow.ru^$important
 ||vk-analytics.ru^$important
 ||adservings.ru^$important
+||*.JivoSite.com^$important
+||*.Jivo.Chat^$important
+||*.JivoSite.by^$important
+||*.JivoSite.ru^$important
