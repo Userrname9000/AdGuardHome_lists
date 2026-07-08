@@ -1112,8 +1112,11 @@ developers.Google.com^
 *.Lh2.Google.com^
 *.Lh3.Google.com^
 *.mail.Google.com^
-*.messages.Google.com^
-*.mTalk.Google.com^
+messages.Google.com^
+mTalk.Google.com^
+mobile-gtalk4.l.google.com
+alt8-mtalk.google.com^$important
+8.mobile-gtalk4.l.google.com^$important
 *.myAccount.Google.com^
 *.nhacmp3YouTube.com^
 *.NS1.Google.com^
