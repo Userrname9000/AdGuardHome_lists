@@ -582,6 +582,7 @@ OpenPGP.org^
 OpenSource.org^
 OpenWRT.org^
 Open-VSX.org^
+openvsx.eclipsecontent.org^
 Oplata.info^
 Orange.com^
 Orb.link^
@@ -634,6 +635,7 @@ ReCaptcha.net^
 RedmondMag.com^
 Remontka.pro^
 Reestr-PKi.ru^
+ResearchGate.net^
 Revanced.app^
 RFC-Editor.org^
 RichAudience.com^
