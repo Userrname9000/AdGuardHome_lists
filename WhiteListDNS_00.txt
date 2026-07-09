@@ -660,6 +660,7 @@ d.ns.selectel.ru^
 b.ns.selectel.ru^
 a.ns.selectel.ru^
 c.ns.selectel.ru^
+SelStorage.ru^
 ServerFault.com^
 Shields.io^
 Shodan.io^
