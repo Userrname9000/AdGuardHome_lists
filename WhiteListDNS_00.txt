@@ -16,6 +16,7 @@ arpa^
 31337.lol^
 localhost^
 Explosive.Homes^
+DWeb.Link^
 iPFS.DWeb.Link^
 ipFS.io^
 ipFS.tech^
@@ -26,6 +27,7 @@ TheNewOne.lol^
 p.TheNewOne.lol^
 f.TheNewOne.lol^
 n.TheNewOne.lol^
+v.TheNewOne.lol^
 v.31337.lol^
 v.Recipes^
 ##############################
