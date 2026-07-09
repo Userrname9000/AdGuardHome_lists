@@ -654,6 +654,10 @@ SecuritVision.ru^
 SecurityHeaders.com^
 SecurityLab.ru^
 Selectel.ru^
+d.ns.selectel.ru^
+b.ns.selectel.ru^
+a.ns.selectel.ru^
+c.ns.selectel.ru^
 ServerFault.com^
 Shields.io^
 Shodan.io^
@@ -1771,9 +1775,7 @@ DoH.pub^
 Mask.me^
 mobile-api.AdGuard.org^
 pcyaur0tg2clo0w4.lol^
-*.pcyaur0tg2clo0w4.lol^
 edgp6a9h67d6avho.pics^
-*.edgp6a9h67d6avho.pics^
 qoqxc26g.pcyaur0tg2clo0w4.lol^
 b1npvi6x.pcyaur0tg2clo0w4.lol^
 uupms3kj.edgp6a9h67d6avho.pics^
@@ -1927,7 +1929,6 @@ www.TBank.ru^
 ||GigaChat-bot.prom.app.SberDevices.ru^$important
 ||third-party-app.SberDevices.ru^$important
 id.Sber.ru^$important
-id.Sber.ru.homeworld264^$important
 mpSbol.ant.SberBank.ru^$important
 Sber.ru^$important
 SberBank.ru^$important
@@ -2032,7 +2033,7 @@ SRVplay.com^
 ##########🛜Dom.ru🌐:#########
 ##############################
 web-api.Dom.ru^
-.s.r1.team^
+s.r1.team^
 ##############################
 ############Etc.##############
 ##############################
