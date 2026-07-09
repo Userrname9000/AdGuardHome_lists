@@ -775,6 +775,7 @@ WesternDigital.com^
 WhatWG.org^
 Who.is^
 WhoIs.com^
+WhoTracks.Me^
 WikiMedia-DNS.org^
 WikiMedia.org^
 WikiPedia.org^
