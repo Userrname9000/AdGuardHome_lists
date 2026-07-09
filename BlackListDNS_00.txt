@@ -297,9 +297,8 @@
 ||gamerilla.ru^
 ||games.t2.appsell.me^
 ||geo2.Adobe.com^$important
-||*.inAppStory.ru^$important
+||inAppStory.ru^$important
 ||inMobi.com^$important
-||ip-api.com.homeworld264^$important
 ||Launches.AppsFlyerSDK.com^$important
 ||Logger.instagram.com^
 ||login5.spotify.com.homeworld264^$important
@@ -326,11 +325,11 @@
 ||Wi-Fi.ru^$important
 ||www.gstatic.com.homeworld264^$important
 ||trorqeok.com^$important
-||*.zoominfo.com^$important
 ||zoominfo.com^$important
-||*.max.ru^$important
+||zoominfo.com^$important
 ||max.ru^$important
-||*.mindbox.ru^$important
+||max.ru^$important
+||mindbox.ru^$important
 ||ir.ozone.com^$important
 ||thumbmarkjs.com^
 ||luxupnetwork.com^
@@ -346,7 +345,7 @@
 ||illicium.com.au^$important
 ||Anzu.io^$important
 ||UnMiss.com^$important
-||*.koffer.com^$important
+||koffer.com^$important
 ||meet7koffer.com^$important
 ||api.oneme.ru^$important
 ||mob-manager-aws.mob.taxi.yandex.net^$important
@@ -354,7 +353,8 @@
 ||trace-flow.ru^$important
 ||vk-analytics.ru^$important
 ||adservings.ru^$important
-||*.JivoSite.com^$important
-||*.Jivo.Chat^$important
-||*.JivoSite.by^$important
-||*.JivoSite.ru^$important
+||JivoSite.com^$important
+||Jivo.Chat^$important
+||JivoSite.by^$important
+||JivoSite.ru^$important
+||ADSfin.net^$important
