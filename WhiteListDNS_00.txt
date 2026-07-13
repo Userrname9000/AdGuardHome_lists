@@ -154,6 +154,7 @@ AdBlock-Tester.com^
 AdBlock.TurtleCute.org^
 Addr.Tools^
 Adonit-SDK.net^
+Actalis.it^
 ADSpower-ru.com^
 ADSpower.com^
 Aeza.net^
