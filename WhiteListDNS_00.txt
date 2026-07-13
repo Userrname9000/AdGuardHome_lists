@@ -527,6 +527,7 @@ miCloud.mi.com^
 MikroTik.com^
 MirConnect.ru^
 MirOnline.ru^
+MirConnect.ru^
 Misaka.one^
 miui.com^
 miWiFi.com^
