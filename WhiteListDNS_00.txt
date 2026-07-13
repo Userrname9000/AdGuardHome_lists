@@ -1384,6 +1384,7 @@ MyCDN.video^
 api.segment.io^
 static.cloudflareinsights.com^
 nyv0.tsx.ovhitem^
+m.boramoraboom.ru^
 cdn.jsdelivr.net^
 cdn.jsdelivr.net.cdn.cloudflare.net^
 ##############################
