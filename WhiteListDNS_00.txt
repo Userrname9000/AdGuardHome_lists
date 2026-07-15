@@ -637,12 +637,15 @@ ReadMeSSL.com^
 ReCaptcha.net^
 RedmondMag.com^
 Remontka.pro^
+RemoteMouse.net^
 Reestr-PKi.ru^
 ResearchGate.net^
 Revanced.app^
 RFC-Editor.org^
 RichAudience.com^
 RiPE.net^
+Rikka.app^
+api-secure.Rikka.app^
 RKN.i2p^
 RobotAttack.org^
 Robtex.com^
