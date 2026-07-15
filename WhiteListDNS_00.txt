@@ -145,6 +145,7 @@ SSL-images-Amazon.com^
 3GPP.org^
 3GPPnetwork.org^
 4PDA.to^
+4PDA.ws^
 AboutSSL.org^
 Abuse.ch^
 AbuseIPdb.com^
