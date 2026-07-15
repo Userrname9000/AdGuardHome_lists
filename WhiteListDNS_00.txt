@@ -212,6 +212,7 @@ BnetAccount.Akamaized.net^
 Blz-contentStack.com^
 CanBeUseful.com^
 CatCert.net^
+CachyOS.org^
 CBR.ru^
 CD77.eu^
 cdn-file.HyperOS.mi.com^
