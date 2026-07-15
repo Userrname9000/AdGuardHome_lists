@@ -517,6 +517,7 @@ LookIP.net^
 LoonaBrowser.ru^
 LowendStock.com^
 LuaDNS.com^
+Luxtorpeda.org^
 LwCDN.com^
 Mail.me.com^
 MartiCliment.com^
@@ -531,6 +532,7 @@ MirConnect.ru^
 MirOnline.ru^
 MirConnect.ru^
 Misaka.one^
+mirror.NevaCloud.com^
 miui.com^
 miWiFi.com^
 ModDB.com^
