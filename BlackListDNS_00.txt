@@ -358,3 +358,4 @@
 ||JivoSite.by^$important
 ||JivoSite.ru^$important
 ||ADSfin.net^$important
+||api-gp.com^
