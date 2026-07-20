@@ -115,6 +115,7 @@ TimeZoneDB.com^
 Open-Meteo.com^
 GeoNames.org^
 WeatherAPi.com^
+OpenStreetMap.fr^
 OpenStreetMap.org^
 OpenFreeMap.org^
 VersaTiles.org^
