@@ -644,6 +644,7 @@ Remontka.pro^
 RemoteMouse.net^
 Reestr-PKi.ru^
 ResearchGate.net^
+RetroAchievements.org^
 Revanced.app^
 RFC-Editor.org^
 RichAudience.com^
