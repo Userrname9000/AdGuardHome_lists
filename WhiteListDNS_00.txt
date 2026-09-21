@@ -668,6 +668,10 @@ SecuritVision.ru^
 SecurityHeaders.com^
 SecurityLab.ru^
 Selectel.ru^
+Sony.com^
+Sony.net^
+PlayStation.net^
+PlayStation.com^
 d.ns.selectel.ru^
 b.ns.selectel.ru^
 a.ns.selectel.ru^
