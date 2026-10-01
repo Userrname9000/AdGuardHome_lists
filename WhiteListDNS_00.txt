@@ -1402,6 +1402,7 @@ m.boramoraboom.ru^
 cdn.jsdelivr.net^
 cdn.jsdelivr.net.cdn.cloudflare.net^
 zerkalo.xyz^
+kino.watch^
 ##############################
 ###########💻VPN🗽:###########
 ##############################
