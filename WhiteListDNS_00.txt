@@ -823,6 +823,7 @@ ZoneOfGames.ru^
 zScaler.com^
 xBox-DNS.ru^
 xSocks.pro^
+xdns.yun.honor.com^
 id.Dom.ru^
 CDN-b2c.Dom.ru^
 tula.Dom.ru^
