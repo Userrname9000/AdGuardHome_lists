@@ -1401,6 +1401,7 @@ nyv0.tsx.ovhitem^
 m.boramoraboom.ru^
 cdn.jsdelivr.net^
 cdn.jsdelivr.net.cdn.cloudflare.net^
+zerkalo.xyz^
 ##############################
 ###########💻VPN🗽:###########
 ##############################
