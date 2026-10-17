@@ -1405,6 +1405,9 @@ cdn.jsdelivr.net.cdn.cloudflare.net^
 zerkalo.xyz^
 kino.watch^
 kino.pubitem^
+api.alador.space^
+api.boramoraboom.ru^
+api.teleos.club^
 ##############################
 ###########💻VPN🗽:###########
 ##############################
