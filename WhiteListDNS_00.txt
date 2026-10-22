@@ -1415,6 +1415,7 @@ api.teleos.club^
 176.123.8.97^
 2a02:e00:ffec:4b8::1^
 Storage.GoogleApis.com/Amnezia/Amnezia.org^
+amnezia.org^
 Astrill.com^
 BlancApp^
 BlancCDN.com^
