@@ -628,6 +628,7 @@ PyPi.org^
 PythonHosted.org^
 PyTorch.org^
 Plexus.TechLore.Tech^
+pcsx2.net^
 qRator.net^
 Qt.io
 Quad9.net^
