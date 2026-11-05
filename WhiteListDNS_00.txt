@@ -1524,6 +1524,7 @@ ndp.ngram.ca^
 api.SteamPowered.com^
 DeckBrew.xyz^
 Decky.net^
+activity.o3h3.com^
 FlatPak.Elementary.io^
 Services-prod.nsvcs.net^
 ProtonDB.com^
